@@ -35,7 +35,7 @@ conapesca <- readRDS(here("raw_data", "conapesca.rds")) %>%
   mutate_all(.funs = remove_factors)
 
 # List of species of interest
-spp_interest <- c("Atun", "Barrilete", "Bonito", "Sardina")
+spp_interest <- c("Atun", "Barrilete", "Bonito")
 
 # Filter species of interest
 conapesca_bq <- conapesca %>%
@@ -66,7 +66,7 @@ months <- tibble(Mes = c("Enero",
                          "Octubre",
                          "Noviembre",
                          "Diciembre"),
-                 month = c(1)
+                 month = c(1:12)
                  )
 
 # Join to the dictionaries and order columns
