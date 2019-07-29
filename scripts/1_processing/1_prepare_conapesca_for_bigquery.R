@@ -111,7 +111,7 @@ conapesca_bq <- conapesca_bq %>%
   summarize(landings = sum(landings, na.rm = T),
             catches = sum(catches, na.rm = T),
             value = sum(value, na.rm = T),
-            price = value / landings) %>% 
+            price = round(value / landings,)) %>% 
   ungroup()
 
 # Get percentiles
@@ -130,14 +130,24 @@ conapesca_bq <- conapesca_bq %>%
          month,
          date,
          shipname,
-         owner,
          category,
          commodity,
          species,
          landings,
          catches,
          value,
-         price)
+         price) %>% 
+  arrange(year,
+          month,
+          date,
+          shipname,
+          category,
+          commodity,
+          species,
+          landings,
+          catches,
+          value,
+          price)
 
 # Export data
 saveRDS(object = conapesca_bq,
