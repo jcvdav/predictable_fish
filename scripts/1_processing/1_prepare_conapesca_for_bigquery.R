@@ -30,16 +30,38 @@ remove_factors <- function(x){
   }
 }
 
+# Function to get percentiles of interest
+get_out <- function(x) {
+  q <- quantile(x, probs = 0.95)
+  return(q)
+}
+
 # Read the data and convert all to character and numeric
 conapesca <- readRDS(here("raw_data", "conapesca.rds")) %>% 
   mutate_all(.funs = remove_factors)
 
 # List of species of interest
-spp_interest <- c("Atun", "Barrilete", "Bonito")
+spp_interest <- c("Atun",
+                  "Barrilete", 
+                  "Bonito")
 
-# Filter species of interest
+# List of states in the Pacific Ocean
+pac_states <- c("Baja california",
+                "Baja california sur",
+                "Chiapas",
+                "Colima",
+                "Guerrero",
+                "Jalisco",
+                "Michoacan",
+                "Nayarit",
+                "Oaxaca",
+                "Sinaloa",
+                "Sonora")
+
+# Apply filters for spp of interest and states
 conapesca_bq <- conapesca %>%
-  filter(NombrePrincipal %in% spp_interest)
+  filter(NombrePrincipal %in% spp_interest) %>% 
+  filter(Estado %in% pac_states)
 
 # Get shipnames to normalize
 shipnames <- unique(conapesca_bq$NombreActivo) %>% 
@@ -66,8 +88,7 @@ months <- tibble(Mes = c("Enero",
                          "Octubre",
                          "Noviembre",
                          "Diciembre"),
-                 month = c(1:12)
-                 )
+                 month = c(1:12))
 
 # Join to the dictionaries and order columns
 conapesca_bq <- conapesca_bq %>% 
@@ -84,9 +105,27 @@ conapesca_bq <- conapesca_bq %>%
          landings = PesoDesembarcado,
          catches = PesoVivo,
          price = Precio,
-         value = Valor
-         ) %>% 
+         value = Valor) %>% 
   mutate(date = date(paste(year, month, 1, sep = "-"))) %>%
+  group_by(year, month, date, shipname, owner, category, commodity, species) %>% 
+  summarize(landings = sum(landings, na.rm = T),
+            catches = sum(catches, na.rm = T),
+            value = sum(value, na.rm = T),
+            price = value / landings) %>% 
+  ungroup()
+
+# Get percentiles
+landings_pct <- get_out(conapesca_bq$landings)
+catches_pct <- get_out(conapesca_bq$catches)
+value_pct <- get_out(conapesca_bq$value)
+price_pct <- get_out(conapesca_bq$price)
+
+# Continue filtering
+conapesca_bq <- conapesca_bq %>% 
+  filter(between(landings, 0, landings_pct),
+         between(catches, 0, catches_pct),
+         between(value, 0, value_pct),
+         between(price, 0, price_pct)) %>% 
   select(year,
          month,
          date,
@@ -97,8 +136,8 @@ conapesca_bq <- conapesca_bq %>%
          species,
          landings,
          catches,
-         price,
-         value)
+         value,
+         price)
 
 # Export data
 saveRDS(object = conapesca_bq,
