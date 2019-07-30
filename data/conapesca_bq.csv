@@ -305,7 +305,7 @@
 2000,5,2000-05-01,"AZTECA8","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",165458,165458,827290,5
 2000,5,2000-05-01,"AZTECA9","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",522955,522955,2614775,5
 2000,5,2000-05-01,"AZTECA9","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",170,170,850,5
-2000,5,2000-05-01,"CLIPEPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",130000,130000,3900000,30
+2000,5,2000-05-01,"CLIPPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",130000,130000,3900000,30
 2000,5,2000-05-01,"COLIMA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",130,130,4550,35
 2000,5,2000-05-01,"CORINADELMAR","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",3301,3301,132040,40
 2000,5,2000-05-01,"DAMASTA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",150,150,2250,15
@@ -1262,8 +1262,8 @@
 2001,5,2001-05-01,"AZTECA9","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",29224,29224,146120,5
 2001,5,2001-05-01,"CARTADEDECES","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",565714,565714,4525712,8
 2001,5,2001-05-01,"CHUYITO30","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",450,450,3150,7
-2001,5,2001-05-01,"CLIPEPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",287507,287507,2012549,7
-2001,5,2001-05-01,"CLIPEPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",69551,69551,347755,5
+2001,5,2001-05-01,"CLIPPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",287507,287507,2012549,7
+2001,5,2001-05-01,"CLIPPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",69551,69551,347755,5
 2001,5,2001-05-01,"COZAR3","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",300,300,2100,7
 2001,5,2001-05-01,"DAMASTA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",145,145,1740,12
 2001,5,2001-05-01,"DONNACRISTINA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",87141,87141,522846,6
@@ -1533,8 +1533,8 @@
 2001,8,2001-08-01,"AZTECA9","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",591326,591326,2956630,5
 2001,8,2001-08-01,"AZTECA9","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",3210,3210,16050,5
 2001,8,2001-08-01,"BANPESCA1","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",300,300,600,2
-2001,8,2001-08-01,"CLIPEPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",417415,417415,2087075,5
-2001,8,2001-08-01,"CLIPEPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",37257,37257,149028,4
+2001,8,2001-08-01,"CLIPPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",417415,417415,2087075,5
+2001,8,2001-08-01,"CLIPPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",37257,37257,149028,4
 2001,8,2001-08-01,"DONJOSE","Atun","Albacora ent. fca.","Thunnus alalunga",4350,4350,52200,12
 2001,8,2001-08-01,"DONJOSE","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",5250,5250,21000,4
 2001,8,2001-08-01,"ELGLADIADOR","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",2016,2016,58464,29
@@ -1762,7 +1762,7 @@
 2001,11,2001-11-01,"AZTECA6","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",625,625,3125,5
 2001,11,2001-11-01,"CARTADEDECES","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",254725,254725,1783075,7
 2001,11,2001-11-01,"CHAMULA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",20,20,60,3
-2001,11,2001-11-01,"CLIPEPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",220778,220778,1103890,5
+2001,11,2001-11-01,"CLIPPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",220778,220778,1103890,5
 2001,11,2001-11-01,"CUQUITA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",1250,1250,16250,13
 2001,11,2001-11-01,"DONAGUSTIN2","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",129903,129903,779418,6
 2001,11,2001-11-01,"EMBARCACIONGENERICA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",50000,50000,3e+05,6
@@ -2778,8 +2778,8 @@
 2003,2,2003-02-01,"CARTADEDECES","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",225449,225449,1352694,6
 2003,2,2003-02-01,"CINTHIANAYELI","Barrilete","Barrilete desv. fco.","Katsuwonus pelamis",120,132,840,7
 2003,2,2003-02-01,"CINTHIANAYELI","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",40,40,240,6
-2003,2,2003-02-01,"CLIPEPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",132453,132453,794718,6
-2003,2,2003-02-01,"CLIPEPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",37111,37111,222666,6
+2003,2,2003-02-01,"CLIPPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",132453,132453,794718,6
+2003,2,2003-02-01,"CLIPPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",37111,37111,222666,6
 2003,2,2003-02-01,"CONSTANZA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",636450,636450,4455150,7
 2003,2,2003-02-01,"CONSTANZA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",34304,34304,171520,5
 2003,2,2003-02-01,"CORINADELMAR","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",95,95,665,7
@@ -2838,8 +2838,8 @@
 2003,2,2003-02-01,"JOSEGERARDO","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",90678,90678,816102,9
 2003,2,2003-02-01,"JUANPABLO1","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",80845,80845,727605,9
 2003,2,2003-02-01,"LUISGUERRERONAVAROO","Bonito","Bonito ent. fco.","Euthynnus alletteratus",40,40,600,15
-2003,2,2003-02-01,"MARIAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",577606,577606,4043242,7
-2003,2,2003-02-01,"MARIAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",281778,281778,1408890,5
+2003,2,2003-02-01,"MAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",577606,577606,4043242,7
+2003,2,2003-02-01,"MAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",281778,281778,1408890,5
 2003,2,2003-02-01,"MARIAFERNANDA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",23759,23759,142554,6
 2003,2,2003-02-01,"MARIAGABRIELA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",1000,1000,10000,10
 2003,2,2003-02-01,"MARIAGABRIELA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",5000,5000,45000,9
@@ -2993,8 +2993,8 @@
 2003,4,2003-04-01,"CARTADEDECES","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",571767,571767,4574136,8
 2003,4,2003-04-01,"CHUYITO30","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",8000,8000,8000,1
 2003,4,2003-04-01,"CINTHIANAYELI","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",180,180,540,3
-2003,4,2003-04-01,"CLIPEPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",396526,396526,2775682,7
-2003,4,2003-04-01,"CLIPEPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",166748,166748,833740,5
+2003,4,2003-04-01,"CLIPPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",396526,396526,2775682,7
+2003,4,2003-04-01,"CLIPPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",166748,166748,833740,5
 2003,4,2003-04-01,"CONSTANZA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",21925,21925,109625,5
 2003,4,2003-04-01,"CORINADELMAR","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",106,106,1060,10
 2003,4,2003-04-01,"EMBARCACIONGENERICA","Atun","Albacora ent. fca.","Thunnus alalunga",219,219,2190,10
@@ -3053,8 +3053,8 @@
 2003,4,2003-04-01,"JUANPABLOIICABOTOSCEDMEXLIB","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",19920,19920,59760,3
 2003,4,2003-04-01,"JUDITH1","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",283000,283000,2264000,8
 2003,4,2003-04-01,"JUDITH1","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",3000,3000,15000,5
+2003,4,2003-04-01,"MAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",66489,66489,332445,5
 2003,4,2003-04-01,"MANOLO","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",166807,166807,1501263,9
-2003,4,2003-04-01,"MARIAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",66489,66489,332445,5
 2003,4,2003-04-01,"MARIALUISA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",130588,130588,783528,6
 2003,4,2003-04-01,"MARIAVERONICA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",36687,36687,220122,6
 2003,4,2003-04-01,"MAZCU1","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",83000,83000,664000,8
@@ -3150,9 +3150,9 @@
 2003,5,2003-05-01,"JUDITH1","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",211297,211297,1479079,7
 2003,5,2003-05-01,"LILIANAL","Atun","Atun ent. fco.","Thunnus spp",63,63,630,10
 2003,5,2003-05-01,"LOSGUICOS","Atun","Atun ent. fco.","Thunnus spp",50,50,150,3
+2003,5,2003-05-01,"MAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",182309,182309,845503,5
 2003,5,2003-05-01,"MACAPULE3","Atun","Atun ent. fco.","Thunnus spp",60,60,240,4
 2003,5,2003-05-01,"MANOLO","Atun","Atun aleta amarilla desv. fco.","Thunnus albacares",186813,205494.3,1681317,9
-2003,5,2003-05-01,"MARIAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",182309,182309,845503,5
 2003,5,2003-05-01,"MARIAFERNANDA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",458805,458805,2752830,6
 2003,5,2003-05-01,"MARIALUISA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",481389,481389,3851112,8
 2003,5,2003-05-01,"MARIALUISA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",112062,112062,672372,6
@@ -3281,7 +3281,7 @@
 2003,7,2003-07-01,"CHACMOOL","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",294310,294310,2060170,7
 2003,7,2003-07-01,"CHUYITO30","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",19000,19000,19000,1
 2003,7,2003-07-01,"CINTHIANAYELI","Barrilete","Barrilete desv. fco.","Katsuwonus pelamis",130,143,910,7
-2003,7,2003-07-01,"CLIPEPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",20194,20194,100970,5
+2003,7,2003-07-01,"CLIPPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",20194,20194,100970,5
 2003,7,2003-07-01,"CONSTANZA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",34797,34797,173985,5
 2003,7,2003-07-01,"ELGLADIADOR","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",351,351,7020,20
 2003,7,2003-07-01,"EMBARCACIONGENERICA","Atun","Albacora ent. fca.","Thunnus alalunga",15,15,240,16
@@ -3330,10 +3330,10 @@
 2003,7,2003-07-01,"JUANPABLOIICABOTOSCEDMEXLIB","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",28016,28016,168096,6
 2003,7,2003-07-01,"JUANPABLOIICABOTOSCEDMEXLIB","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",8738,8738,26214,3
 2003,7,2003-07-01,"LOSGUICOS","Atun","Atun desv. fco.","Thunnus spp",25,27.5,75,3
+2003,7,2003-07-01,"MAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",60352,60352,422464,7
 2003,7,2003-07-01,"MACAPULE3","Atun","Atun ent. fco.","Thunnus spp",30,30,90,3
 2003,7,2003-07-01,"MANOLO","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",189903,189903,949515,5
 2003,7,2003-07-01,"MANOLO","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",10489,10489,31467,3
-2003,7,2003-07-01,"MARIAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",60352,60352,422464,7
 2003,7,2003-07-01,"MARIAFERNANDA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",150309,150309,901854,6
 2003,7,2003-07-01,"MARIAGABRIELA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",1000,1000,10000,10
 2003,7,2003-07-01,"MARIAGABRIELA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",88000,88000,792000,9
@@ -3385,7 +3385,7 @@
 2003,8,2003-08-01,"CHUYITO30","Atun","Atun aleta amarilla desv, desc fco","Thunnus albacares",28000,33600,28000,1
 2003,8,2003-08-01,"CINTHIANAYELI","Barrilete","Barrilete desv. fco.","Katsuwonus pelamis",40,44,280,7
 2003,8,2003-08-01,"CINTHIANAYELI","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",45,45,315,7
-2003,8,2003-08-01,"CLIPEPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",49554,49554,346878,7
+2003,8,2003-08-01,"CLIPPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",49554,49554,346878,7
 2003,8,2003-08-01,"DONJOSE","Atun","Albacora ent. fca.","Thunnus alalunga",2350,2350,28200,12
 2003,8,2003-08-01,"ELGLADIADOR","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",300,300,5400,18
 2003,8,2003-08-01,"EMBARCACIONGENERICA","Atun","Albacora ent. fca.","Thunnus alalunga",2072,2072,31080,15
@@ -3518,12 +3518,12 @@
 2003,9,2003-09-01,"JUANPABLO1","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",111971,111971,895768,8
 2003,9,2003-09-01,"JUANPABLOIICABOTOSCEDMEXLIB","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",61909,61909,495272,8
 2003,9,2003-09-01,"LILIANAL","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",80,80,1040,13
+2003,9,2003-09-01,"MAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",32401,32401,129604,4
 2003,9,2003-09-01,"MANOLO","Atun","Atun aleta amarilla desv. fco.","Thunnus albacares",35413,38954.3,318717,9
 2003,9,2003-09-01,"MANOLO","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",5000,5000,60000,12
 2003,9,2003-09-01,"MANOLO","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",258778,258778,2830224,11
 2003,9,2003-09-01,"MARANATHA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",37400,37400,374000,10
 2003,9,2003-09-01,"MARANATHA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",91500,91500,823500,9
-2003,9,2003-09-01,"MARIAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",32401,32401,129604,4
 2003,9,2003-09-01,"MARIAFERNANDA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",679749,679749,5437992,8
 2003,9,2003-09-01,"MARIAFERNANDA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",68818,68818,412908,6
 2003,9,2003-09-01,"MARIAGABRIELA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",3000,3000,30000,10
@@ -3560,7 +3560,7 @@
 2003,10,2003-10-01,"CAMILA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",119937,119937,599685,5
 2003,10,2003-10-01,"CHAMULA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",500,500,2500,5
 2003,10,2003-10-01,"CHUYITO30","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",420000,420000,420000,1
-2003,10,2003-10-01,"CLIPEPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",417930,417930,2925510,7
+2003,10,2003-10-01,"CLIPPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",417930,417930,2925510,7
 2003,10,2003-10-01,"CORINADELMAR","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",40,40,800,20
 2003,10,2003-10-01,"COZAR3","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",410000,410000,410000,1
 2003,10,2003-10-01,"DONNACRISTINA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",297000,297000,2970000,10
@@ -3624,10 +3624,10 @@
 2003,10,2003-10-01,"JUDITH1","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",110082,110082,770574,7
 2003,10,2003-10-01,"JUDITH1","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",5374,5374,26870,5
 2003,10,2003-10-01,"LILIANAL","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",130,130,2080,16
+2003,10,2003-10-01,"MAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",379763,379763,2658341,7
+2003,10,2003-10-01,"MAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",42373,42373,169492,4
 2003,10,2003-10-01,"MANOLO","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",77000,77000,1001000,13
 2003,10,2003-10-01,"MANOLO","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",98000,98000,1176000,12
-2003,10,2003-10-01,"MARIAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",379763,379763,2658341,7
-2003,10,2003-10-01,"MARIAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",42373,42373,169492,4
 2003,10,2003-10-01,"MARIABEATRIZ","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",53932,53932,485388,9
 2003,10,2003-10-01,"MARIABEATRIZ","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",74010,74010,592080,8
 2003,10,2003-10-01,"MARIAFERNANDA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",12964,12964,77784,6
@@ -3772,7 +3772,7 @@
 2003,12,2003-12-01,"BUENAVENTURA2","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",284722,284722,2277776,8
 2003,12,2003-12-01,"BUENAVENTURA2","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",196931,196931,1181586,6
 2003,12,2003-12-01,"CHAMULA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",500,500,3500,7
-2003,12,2003-12-01,"CLIPEPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",182000,182000,1456000,8
+2003,12,2003-12-01,"CLIPPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",182000,182000,1456000,8
 2003,12,2003-12-01,"CORINADELMAR","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",99,99,2772,28
 2003,12,2003-12-01,"ELGLADIADOR","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",141,141,1482,11
 2003,12,2003-12-01,"ELRENEGADO","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",80,80,800,10
@@ -4022,10 +4022,10 @@
 2004,2,2004-02-01,"JUANPABLO1","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",103854,103854,830832,8
 2004,2,2004-02-01,"JUANPABLO1","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",144311,144311,682976,5
 2004,2,2004-02-01,"LILIANAL","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",510,510,8160,16
+2004,2,2004-02-01,"MAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",362129,362129,2534903,7
+2004,2,2004-02-01,"MAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",54076,54076,270380,5
 2004,2,2004-02-01,"MANOLO","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",58360,58360,466880,8
 2004,2,2004-02-01,"MANOLO","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",29047,29047,174282,6
-2004,2,2004-02-01,"MARIAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",362129,362129,2534903,7
-2004,2,2004-02-01,"MARIAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",54076,54076,270380,5
 2004,2,2004-02-01,"MARIAFERNANDA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",599333,599333,4794664,8
 2004,2,2004-02-01,"MARIAFERNANDA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",157344,157344,944064,6
 2004,2,2004-02-01,"MARIALUISA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",180533,180533,1083198,6
@@ -4231,9 +4231,9 @@
 2004,4,2004-04-01,"JUANPABLO1","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",199080,199080,597240,3
 2004,4,2004-04-01,"LILIANAL","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",312,312,6864,22
 2004,4,2004-04-01,"LIZZY","Atun","Atun ent. fco.","Thunnus spp",480,480,7200,15
+2004,4,2004-04-01,"MAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",346150,346150,2423050,7
+2004,4,2004-04-01,"MAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",49800,49800,199200,4
 2004,4,2004-04-01,"MANOLO","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",216855,216855,650565,3
-2004,4,2004-04-01,"MARIAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",346150,346150,2423050,7
-2004,4,2004-04-01,"MARIAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",49800,49800,199200,4
 2004,4,2004-04-01,"MARIABEATRIZ","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",321848,321848,1931088,6
 2004,4,2004-04-01,"MARIABEATRIZ","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",31179,31179,124716,4
 2004,4,2004-04-01,"MARIAFERNANDA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",498657,498657,4487913,9
@@ -4437,10 +4437,10 @@
 2004,6,2004-06-01,"GUAYMAS","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",15014,15014,135126,9
 2004,6,2004-06-01,"JAGUAR","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",143764,143764,1290645,9
 2004,6,2004-06-01,"LIZZY","Atun","Atun ent. fco.","Thunnus spp",480,480,4800,10
+2004,6,2004-06-01,"MAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",115182,115182,575910,5
 2004,6,2004-06-01,"MANOLO","Atun","Atun aleta amarilla desv. fco.","Thunnus albacares",100747,110821.7,906723,9
 2004,6,2004-06-01,"MANOLO","Barrilete","Barrilete negro ent. fco.","Katsuwonus pelamis",22421,22421,179368,8
 2004,6,2004-06-01,"MARANATHA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",90000,90000,810000,9
-2004,6,2004-06-01,"MARIAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",115182,115182,575910,5
 2004,6,2004-06-01,"MARIABEATRIZ","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",159912,159912,1918944,12
 2004,6,2004-06-01,"MARIABEATRIZ","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",21331,21331,213310,10
 2004,6,2004-06-01,"MARIAGABRIELA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",96718,96718,870462,9
@@ -4480,8 +4480,8 @@
 2004,7,2004-07-01,"BUENAVENTURA2","Atun","Atun aleta azul ent. fco.","Thunnus orientalis",530000,530000,5300000,10
 2004,7,2004-07-01,"CAMILA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",13913,13913,69565,5
 2004,7,2004-07-01,"CAMILA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",135834,135834,679170,5
-2004,7,2004-07-01,"CLIPEPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",203650,203650,1425550,7
-2004,7,2004-07-01,"CLIPEPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",14604,14604,73020,5
+2004,7,2004-07-01,"CLIPPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",203650,203650,1425550,7
+2004,7,2004-07-01,"CLIPPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",14604,14604,73020,5
 2004,7,2004-07-01,"DONRODO2","Atun","Atun ent. fco.","Thunnus spp",48,48,288,6
 2004,7,2004-07-01,"EMBARCACIONGENERICA","Atun","Albacora ent. fca.","Thunnus alalunga",40,40,600,15
 2004,7,2004-07-01,"EMBARCACIONGENERICA","Atun","Albacora ent. fca.","Thunnus alalunga",250,250,3750,15
@@ -4699,8 +4699,8 @@
 2004,9,2004-09-01,"AZTECA7","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",3631,3631,18155,5
 2004,9,2004-09-01,"CAMILA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",204543,204543,1022715,5
 2004,9,2004-09-01,"CAMILA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",144965,144965,724825,5
-2004,9,2004-09-01,"CLIPEPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",47737,47737,334159,7
-2004,9,2004-09-01,"CLIPEPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",1028,1028,4112,4
+2004,9,2004-09-01,"CLIPPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",47737,47737,334159,7
+2004,9,2004-09-01,"CLIPPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",1028,1028,4112,4
 2004,9,2004-09-01,"CONSTANZA","Atun","Albacora ent. fca.","Thunnus alalunga",25000,25000,3e+05,12
 2004,9,2004-09-01,"CONSTANZA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",47000,47000,564000,12
 2004,9,2004-09-01,"CONSTANZA","Atun","Atun aleta azul ent. fco.","Thunnus orientalis",23000,23000,276000,12
@@ -4773,14 +4773,14 @@
 2004,9,2004-09-01,"LUPEDELMAR","Atun","Albacora ent. fca.","Thunnus alalunga",3675,3675,66150,18
 2004,9,2004-09-01,"LUPEDELMAR","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",34700,34700,242900,7
 2004,9,2004-09-01,"LUPEDELMAR","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",111475,111475,668850,6
+2004,9,2004-09-01,"MAANTONIETA","Atun","Albacora ent. fca.","Thunnus alalunga",5699,5699,39893,7
+2004,9,2004-09-01,"MAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",113998,113998,911984,8
+2004,9,2004-09-01,"MAANTONIETA","Atun","Atun aleta azul ent. fco.","Thunnus orientalis",101312,101312,607872,6
+2004,9,2004-09-01,"MAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",72982,72982,291928,4
 2004,9,2004-09-01,"MANOLO","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",10156,10156,101560,10
 2004,9,2004-09-01,"MANOLO","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",90918,90918,727344,8
 2004,9,2004-09-01,"MARANATHA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",92000,92000,920000,10
 2004,9,2004-09-01,"MARANATHA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",6000,6000,54000,9
-2004,9,2004-09-01,"MARIAANTONIETA","Atun","Albacora ent. fca.","Thunnus alalunga",5699,5699,39893,7
-2004,9,2004-09-01,"MARIAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",113998,113998,911984,8
-2004,9,2004-09-01,"MARIAANTONIETA","Atun","Atun aleta azul ent. fco.","Thunnus orientalis",101312,101312,607872,6
-2004,9,2004-09-01,"MARIAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",72982,72982,291928,4
 2004,9,2004-09-01,"MARIABEATRIZ","Atun","Albacora ent. fca.","Thunnus alalunga",38000,38000,456000,12
 2004,9,2004-09-01,"MARIABEATRIZ","Atun","Atun aleta azul ent. fco.","Thunnus orientalis",240000,240000,2880000,12
 2004,9,2004-09-01,"MARIABEATRIZ","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",30000,30000,360000,12
@@ -4964,11 +4964,11 @@
 2004,11,2004-11-01,"JUANPABLO1","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",172100,172100,1368400,8
 2004,11,2004-11-01,"JUDITH1","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",16709,16709,250635,15
 2004,11,2004-11-01,"JUDITH1","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",148840,148840,1637240,11
+2004,11,2004-11-01,"MAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",372309,372309,2978472,8
+2004,11,2004-11-01,"MAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",23609,23609,118045,5
 2004,11,2004-11-01,"MANOLO","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",155267,155267,1552670,10
 2004,11,2004-11-01,"MARANATHA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",153000,153000,1530000,10
 2004,11,2004-11-01,"MARANATHA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",5000,5000,40000,8
-2004,11,2004-11-01,"MARIAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",372309,372309,2978472,8
-2004,11,2004-11-01,"MARIAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",23609,23609,118045,5
 2004,11,2004-11-01,"MARIABEATRIZ","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",7996,7996,47976,6
 2004,11,2004-11-01,"MARIABEATRIZ","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",214718,214718,858872,4
 2004,11,2004-11-01,"MARIAGABRIELA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",84000,84000,840000,10
@@ -5211,11 +5211,11 @@
 2005,2,2005-02-01,"JUDITH1","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",71920,71920,1078800,15
 2005,2,2005-02-01,"JUDITH1","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",58080,58080,638880,11
 2005,2,2005-02-01,"LILIANAL","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",590,590,25960,44
+2005,2,2005-02-01,"MAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",229125,229125,1603875,7
+2005,2,2005-02-01,"MAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",15281,15281,76405,5
 2005,2,2005-02-01,"MANOLO","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",52100,52100,260500,5
 2005,2,2005-02-01,"MARANATHA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",29000,29000,290000,10
 2005,2,2005-02-01,"MARANATHA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",1000,1000,9000,9
-2005,2,2005-02-01,"MARIAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",229125,229125,1603875,7
-2005,2,2005-02-01,"MARIAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",15281,15281,76405,5
 2005,2,2005-02-01,"MARIAFERNANDA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",517246,517246,4137968,8
 2005,2,2005-02-01,"MARIAFERNANDA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",382808,382808,1914040,5
 2005,2,2005-02-01,"MARIAGABRIELA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",52000,52000,520000,10
@@ -5844,14 +5844,14 @@
 2005,8,2005-08-01,"JUANPABLO1","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",213021,213021,2444168,11
 2005,8,2005-08-01,"LUPEDELMAR","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",119444,119444,836108,7
 2005,8,2005-08-01,"LUPEDELMAR","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",82454,82454,329816,4
+2005,8,2005-08-01,"MAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",180000,180000,1260000,7
+2005,8,2005-08-01,"MAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",32000,32000,128000,4
 2005,8,2005-08-01,"MACEL","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",142000,142000,1704000,12
 2005,8,2005-08-01,"MACEL","Atun","Atun aleta azul ent. fco.","Thunnus orientalis",20000,20000,240000,12
 2005,8,2005-08-01,"MACEL","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",1e+05,1e+05,1100000,11
 2005,8,2005-08-01,"MANOLO","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",195604,195604,1173624,6
 2005,8,2005-08-01,"MARANATHA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",128000,128000,1280000,10
 2005,8,2005-08-01,"MARANATHA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",41000,41000,369000,9
-2005,8,2005-08-01,"MARIAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",180000,180000,1260000,7
-2005,8,2005-08-01,"MARIAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",32000,32000,128000,4
 2005,8,2005-08-01,"MARIABEATRIZ","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",14000,14000,168000,12
 2005,8,2005-08-01,"MARIABEATRIZ","Atun","Atun aleta azul ent. fco.","Thunnus orientalis",173000,173000,2076000,12
 2005,8,2005-08-01,"MARIABEATRIZ","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",208000,208000,2288000,11
@@ -6089,8 +6089,8 @@
 2005,11,2005-11-01,"CAMILA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",14594,14594,72970,5
 2005,11,2005-11-01,"CAMILA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",71909,71909,359545,5
 2005,11,2005-11-01,"CHACMOOL","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",180000,180000,1440000,8
-2005,11,2005-11-01,"CLIPEPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",55000,55000,660000,12
-2005,11,2005-11-01,"CLIPEPERTON","Bonito","Bonito ent. fco.","Euthynnus alletteratus",27000,27000,324000,12
+2005,11,2005-11-01,"CLIPPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",55000,55000,660000,12
+2005,11,2005-11-01,"CLIPPERTON","Bonito","Bonito ent. fco.","Euthynnus alletteratus",27000,27000,324000,12
 2005,11,2005-11-01,"DELFIN9","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",35613,35613,356130,10
 2005,11,2005-11-01,"DELFIN9","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",56724,56724,340344,6
 2005,11,2005-11-01,"DONNICO","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",50,50,2200,44
@@ -6138,11 +6138,11 @@
 2005,11,2005-11-01,"JOSEGERARDO","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",3218,3218,22526,7
 2005,11,2005-11-01,"JOSEGERARDO","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",104744,104744,523720,5
 2005,11,2005-11-01,"LILIANAL","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",160,160,7040,44
+2005,11,2005-11-01,"MAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",387721,387721,2714047,7
+2005,11,2005-11-01,"MAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",5694,5694,28470,5
 2005,11,2005-11-01,"MACEL","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",67804,67804,813648,12
 2005,11,2005-11-01,"MACEL","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",340589,340589,3405890,10
 2005,11,2005-11-01,"MARANATHA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",103800,103800,1038000,10
-2005,11,2005-11-01,"MARIAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",387721,387721,2714047,7
-2005,11,2005-11-01,"MARIAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",5694,5694,28470,5
 2005,11,2005-11-01,"MARIABEATRIZ","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",94747,94747,757976,8
 2005,11,2005-11-01,"MARIABEATRIZ","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",6800,6800,34000,5
 2005,11,2005-11-01,"MARIABEATRIZ","Barrilete","Barrilete negro ent. fco.","Katsuwonus pelamis",18862,18862,56586,3
@@ -6239,9 +6239,9 @@
 2005,12,2005-12-01,"LILIANAL","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",50,50,1650,33
 2005,12,2005-12-01,"LUPEDELMAR","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",387471,387471,2712297,7
 2005,12,2005-12-01,"LUPEDELMAR","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",30689,30689,153445,5
+2005,12,2005-12-01,"MAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",165215,165215,1156505,7
 2005,12,2005-12-01,"MARANATHA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",6000,6000,72000,12
 2005,12,2005-12-01,"MARANATHA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",38000,38000,380000,10
-2005,12,2005-12-01,"MARIAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",165215,165215,1156505,7
 2005,12,2005-12-01,"MARIADELMARAKALANIBRUJADELMA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",536001,536001,4288008,8
 2005,12,2005-12-01,"MARIADELMARAKALANIBRUJADELMA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",112518,112518,562590,5
 2005,12,2005-12-01,"MARIAGABRIELA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",12000,12000,144000,12
@@ -6476,12 +6476,12 @@
 2006,3,2006-03-01,"LAVICTORIA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",53005,53005,477045,9
 2006,3,2006-03-01,"LAVICTORIA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",143598,143598,574910,4
 2006,3,2006-03-01,"LUCINAELENA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",25,25,375,15
+2006,3,2006-03-01,"MAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",549848,549848,5498480,10
+2006,3,2006-03-01,"MAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",30520,30520,244160,8
 2006,3,2006-03-01,"MACEL","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",99487,99487,895383,9
 2006,3,2006-03-01,"MACEL","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",310540,310540,1008500,3
 2006,3,2006-03-01,"MANOLO","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",85000,85000,765000,9
 2006,3,2006-03-01,"MARCARIBE","Atun","Atun ent. fco.","Thunnus spp",20,20,200,10
-2006,3,2006-03-01,"MARIAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",549848,549848,5498480,10
-2006,3,2006-03-01,"MARIAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",30520,30520,244160,8
 2006,3,2006-03-01,"MARIALUISA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",639990,639990,5119920,8
 2006,3,2006-03-01,"MARIALUISA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",20361,20361,101805,5
 2006,3,2006-03-01,"MAZATUN","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",309942,309942,1549710,5
@@ -6680,13 +6680,13 @@
 2006,5,2006-05-01,"JUANPABLO1","Barrilete","Barrilete negro ent. fco.","Katsuwonus pelamis",147107,147107,882642,6
 2006,5,2006-05-01,"LUCINAELENA","Atun","Atun desv. fco.","Thunnus spp",25,27.5,750,30
 2006,5,2006-05-01,"LUZMERAZ","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",205,205,820,4
+2006,5,2006-05-01,"MAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",99339,99339,993390,10
+2006,5,2006-05-01,"MAANTONIETA","Atun","Atun aleta azul ent. fco.","Thunnus orientalis",186650,186650,1866500,10
+2006,5,2006-05-01,"MAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",3778,3778,30224,8
 2006,5,2006-05-01,"MANOLO","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",61152,61152,611520,10
 2006,5,2006-05-01,"MANOLO","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",251,251,1757,7
 2006,5,2006-05-01,"MANOLO","Barrilete","Barrilete negro ent. fco.","Katsuwonus pelamis",43644,43644,218220,5
 2006,5,2006-05-01,"MANOLO","Bonito","Bonito ent. fco.","Euthynnus alletteratus",34881,34881,209286,6
-2006,5,2006-05-01,"MARIAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",99339,99339,993390,10
-2006,5,2006-05-01,"MARIAANTONIETA","Atun","Atun aleta azul ent. fco.","Thunnus orientalis",186650,186650,1866500,10
-2006,5,2006-05-01,"MARIAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",3778,3778,30224,8
 2006,5,2006-05-01,"MARIABEATRIZ","Atun","Atun aleta azul ent. fco.","Thunnus orientalis",22190,22190,266280,12
 2006,5,2006-05-01,"MARIABEATRIZ","Atun","Atun ent. fco.","Thunnus spp",65000,65000,780000,12
 2006,5,2006-05-01,"MARIALUISA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",531291,531291,4250328,8
@@ -6855,14 +6855,14 @@
 2006,7,2006-07-01,"JUANPABLO1","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",14790,14790,133110,9
 2006,7,2006-07-01,"JUANPABLO1","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",2880,2880,17280,6
 2006,7,2006-07-01,"LUCINAELENA","Atun","Atun desv. fco.","Thunnus spp",107,117.7,3210,30
+2006,7,2006-07-01,"MAANTONIETA","Atun","Atun aleta azul ent. fco.","Thunnus orientalis",193000,193000,2316000,12
+2006,7,2006-07-01,"MAANTONIETA","Bonito","Bonito ent. fco.","Euthynnus alletteratus",24500,24500,294000,12
 2006,7,2006-07-01,"MANOLO","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",50070,50070,450630,9
 2006,7,2006-07-01,"MANOLO","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",10004,10004,70028,7
 2006,7,2006-07-01,"MANOLO","Barrilete","Barrilete negro ent. fco.","Katsuwonus pelamis",13640,13640,68200,5
 2006,7,2006-07-01,"MARANATHA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",50000,50000,650000,13
 2006,7,2006-07-01,"MARANATHA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",5000,5000,50000,10
 2006,7,2006-07-01,"MARANATHA","Bonito","Bonito ent. fco.","Euthynnus alletteratus",4000,4000,32000,8
-2006,7,2006-07-01,"MARIAANTONIETA","Atun","Atun aleta azul ent. fco.","Thunnus orientalis",193000,193000,2316000,12
-2006,7,2006-07-01,"MARIAANTONIETA","Bonito","Bonito ent. fco.","Euthynnus alletteratus",24500,24500,294000,12
 2006,7,2006-07-01,"MARIAGABRIELA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",30000,30000,390000,13
 2006,7,2006-07-01,"MARIAGABRIELA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",8000,8000,80000,10
 2006,7,2006-07-01,"MARIAGABRIELA","Bonito","Bonito ent. fco.","Euthynnus alletteratus",6500,6500,52000,8
@@ -7115,11 +7115,11 @@
 2006,9,2006-09-01,"HORIZONTE1","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",1024,1024,6144,6
 2006,9,2006-09-01,"JAGUAR","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",320000,320000,2560000,8
 2006,9,2006-09-01,"JAGUAR","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",239000,239000,1195000,5
+2006,9,2006-09-01,"MAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",26136,26136,261360,10
+2006,9,2006-09-01,"MAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",355431,355431,2843448,8
 2006,9,2006-09-01,"MANOLO","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",22138,22138,265656,12
 2006,9,2006-09-01,"MANOLO","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",114891,114891,1148910,10
 2006,9,2006-09-01,"MANZANOIIISURIANO14","Atun","Atun ent. fco.","Thunnus spp",17,17,85,5
-2006,9,2006-09-01,"MARIAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",26136,26136,261360,10
-2006,9,2006-09-01,"MARIAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",355431,355431,2843448,8
 2006,9,2006-09-01,"MARIAISABEL1","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",194925,194925,1754325,9
 2006,9,2006-09-01,"MARIAISABEL1","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",144995,144995,1014965,7
 2006,9,2006-09-01,"MARIAISABEL1","Bonito","Bonito ent. fco.","Euthynnus alletteratus",3800,3800,15200,4
@@ -7281,8 +7281,8 @@
 2006,11,2006-11-01,"CAMILA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",205941,205941,1029705,5
 2006,11,2006-11-01,"CAMILA","Bonito","Bonito ent. fco.","Euthynnus alletteratus",9946,9946,49730,5
 2006,11,2006-11-01,"CARTADEDECES","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",378786,378786,3030288,8
-2006,11,2006-11-01,"CLIPEPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",367962,367962,1839810,5
-2006,11,2006-11-01,"CLIPEPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",47937,47937,239685,5
+2006,11,2006-11-01,"CLIPPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",367962,367962,1839810,5
+2006,11,2006-11-01,"CLIPPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",47937,47937,239685,5
 2006,11,2006-11-01,"DAMASTA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",260,260,10780,41
 2006,11,2006-11-01,"DEAGOSTO1121","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",25,25,250,10
 2006,11,2006-11-01,"ELDORADO","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",617910,617910,3089550,5
@@ -7439,10 +7439,10 @@
 2006,12,2006-12-01,"JAGUAR","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",175,175,1400,8
 2006,12,2006-12-01,"JAGUAR","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",343,343,1715,5
 2006,12,2006-12-01,"LUCINAELENA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",115,115,2530,22
+2006,12,2006-12-01,"MAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",175841,175841,1758410,10
+2006,12,2006-12-01,"MAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",27769,27769,222152,8
 2006,12,2006-12-01,"MARANATHA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",45271,45271,543252,12
 2006,12,2006-12-01,"MARANATHA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",29500,29500,295000,10
-2006,12,2006-12-01,"MARIAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",175841,175841,1758410,10
-2006,12,2006-12-01,"MARIAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",27769,27769,222152,8
 2006,12,2006-12-01,"MARIAGABRIELA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",67973,67973,815676,12
 2006,12,2006-12-01,"MARIAGABRIELA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",16509,16509,165090,10
 2006,12,2006-12-01,"MOLLYN","Atun","Atun ent. fco.","Thunnus spp",31271,31271,218897,7
@@ -7526,8 +7526,8 @@
 2007,2,2007-02-01,"CAMILA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",90267,90267,451335,5
 2007,2,2007-02-01,"CAMILA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",128142,128142,640710,5
 2007,2,2007-02-01,"CENTAURODELNORTE","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",150,150,1500,10
-2007,2,2007-02-01,"CLIPEPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",132650,132650,663250,5
-2007,2,2007-02-01,"CLIPEPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",693,693,3465,5
+2007,2,2007-02-01,"CLIPPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",132650,132650,663250,5
+2007,2,2007-02-01,"CLIPPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",693,693,3465,5
 2007,2,2007-02-01,"DAMASTA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",60,60,2640,44
 2007,2,2007-02-01,"DONNICO","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",101,101,2020,20
 2007,2,2007-02-01,"EMBARCACIONGENERICA","Atun","Albacora ent. fca.","Thunnus alalunga",30,30,240,8
@@ -7575,12 +7575,12 @@
 2007,2,2007-02-01,"LAVICTORIA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",29000,29000,174000,6
 2007,2,2007-02-01,"LAVICTORIA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",2000,2000,12000,6
 2007,2,2007-02-01,"LILIANAL","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",41,41,820,20
+2007,2,2007-02-01,"MAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",40542,40542,405420,10
+2007,2,2007-02-01,"MAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",5164,5164,41312,8
 2007,2,2007-02-01,"MANOLO","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",56329,56329,619619,11
 2007,2,2007-02-01,"MANOLO","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",1210,1210,9680,8
 2007,2,2007-02-01,"MARCARIBE","Atun","Atun ent. fco.","Thunnus spp",22,22,220,10
 2007,2,2007-02-01,"MARCARIBE","Bonito","Bonito ent. fco.","Euthynnus alletteratus",8,8,80,10
-2007,2,2007-02-01,"MARIAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",40542,40542,405420,10
-2007,2,2007-02-01,"MARIAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",5164,5164,41312,8
 2007,2,2007-02-01,"MARIABEATRIZ","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",73410,73410,954330,13
 2007,2,2007-02-01,"MARIAFERNANDA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",219454,219454,1755632,8
 2007,2,2007-02-01,"MARIAFERNANDA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",13748,13748,68740,5
@@ -7676,8 +7676,8 @@
 2007,3,2007-03-01,"LAVICTORIA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",14000,14000,98000,7
 2007,3,2007-03-01,"LAVICTORIA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",10000,10000,60000,6
 2007,3,2007-03-01,"LOBOS5","Atun","Atun ent. fco.","Thunnus spp",185,185,1850,10
-2007,3,2007-03-01,"MARIAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",330223,330223,3302230,10
-2007,3,2007-03-01,"MARIAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",101186,101186,809488,8
+2007,3,2007-03-01,"MAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",330223,330223,3302230,10
+2007,3,2007-03-01,"MAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",101186,101186,809488,8
 2007,3,2007-03-01,"MARIALUISA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",582844,582844,4662752,8
 2007,3,2007-03-01,"MARIALUISA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",101885,101885,509425,5
 2007,3,2007-03-01,"MARIAVERONICA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",310250,310250,2482000,8
@@ -7805,7 +7805,7 @@
 2007,5,2007-05-01,"BUENAVENTURA1","Atun","Atun aleta azul ent. fco.","Thunnus orientalis",70000,70000,7e+05,10
 2007,5,2007-05-01,"CAMILA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",95825,95825,479125,5
 2007,5,2007-05-01,"CAMILA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",54556,54556,272780,5
-2007,5,2007-05-01,"CLIPEPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",42631,42631,213155,5
+2007,5,2007-05-01,"CLIPPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",42631,42631,213155,5
 2007,5,2007-05-01,"DAMASTA","Atun","Atun aleta amarilla desv. fco.","Thunnus albacares",80,88,3520,44
 2007,5,2007-05-01,"DONBENJAMIN","Atun","Atun ent. fco.","Thunnus spp",32,32,192,6
 2007,5,2007-05-01,"DONRODO3","Atun","Atun ent. fco.","Thunnus spp",263,263,3945,15
@@ -7859,8 +7859,8 @@
 2007,5,2007-05-01,"LILIANAL","Atun","Atun ent. fco.","Thunnus spp",29,29,145,5
 2007,5,2007-05-01,"LUPEDELMAR","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",14542,14542,145420,10
 2007,5,2007-05-01,"LUPEDELMAR","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",252,252,2016,8
-2007,5,2007-05-01,"MARIAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",355268,355268,3552680,10
-2007,5,2007-05-01,"MARIAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",123805,123805,990440,8
+2007,5,2007-05-01,"MAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",355268,355268,3552680,10
+2007,5,2007-05-01,"MAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",123805,123805,990440,8
 2007,5,2007-05-01,"MARIABEATRIZ","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",479888,479888,5278768,11
 2007,5,2007-05-01,"MARIAFERNANDA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",568705,568705,4549640,8
 2007,5,2007-05-01,"MARIAFERNANDA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",2777,2777,13885,5
@@ -8058,7 +8058,7 @@
 2007,7,2007-07-01,"LAVICTORIA","Barrilete","Barrilete negro ent. fco.","Katsuwonus pelamis",21000,21000,126000,6
 2007,7,2007-07-01,"LUCINAELENA","Atun","Atun aleta amarilla desv, desc fco","Thunnus albacares",130,156,1300,10
 2007,7,2007-07-01,"LUPEDELMAR","Atun","Atun aleta azul ent. fco.","Thunnus orientalis",64000,64000,768000,12
-2007,7,2007-07-01,"MARIAANTONIETA","Atun","Atun aleta azul ent. fco.","Thunnus orientalis",179000,179000,2148000,12
+2007,7,2007-07-01,"MAANTONIETA","Atun","Atun aleta azul ent. fco.","Thunnus orientalis",179000,179000,2148000,12
 2007,7,2007-07-01,"MARIAGABRIELA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",63834,63834,766008,12
 2007,7,2007-07-01,"MARIAGABRIELA","Bonito","Bonito ent. fco.","Euthynnus alletteratus",82320,82320,823200,10
 2007,7,2007-07-01,"MARIALUISA","Atun","Atun aleta azul ent. fco.","Thunnus orientalis",83000,83000,664000,8
@@ -8121,10 +8121,10 @@
 2007,8,2007-08-01,"CHACMOOL","Atun","Atun aleta azul ent. fco.","Thunnus orientalis",49000,49000,490000,10
 2007,8,2007-08-01,"CHACMOOL","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",1000,1000,7000,7
 2007,8,2007-08-01,"CHACMOOL","Bonito","Bonito ent. fco.","Euthynnus alletteratus",8000,8000,40000,5
-2007,8,2007-08-01,"CLIPEPERTON","Atun","Albacora ent. fca.","Thunnus alalunga",85,85,425,5
-2007,8,2007-08-01,"CLIPEPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",327748,327748,1638740,5
-2007,8,2007-08-01,"CLIPEPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",444595,444595,2222975,5
-2007,8,2007-08-01,"CLIPEPERTON","Bonito","Bonito ent. fco.","Euthynnus alletteratus",281219,281219,1406095,5
+2007,8,2007-08-01,"CLIPPERTON","Atun","Albacora ent. fca.","Thunnus alalunga",85,85,425,5
+2007,8,2007-08-01,"CLIPPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",327748,327748,1638740,5
+2007,8,2007-08-01,"CLIPPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",444595,444595,2222975,5
+2007,8,2007-08-01,"CLIPPERTON","Bonito","Bonito ent. fco.","Euthynnus alletteratus",281219,281219,1406095,5
 2007,8,2007-08-01,"CONSTANZA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",10000,10000,90000,9
 2007,8,2007-08-01,"CONSTANZA","Atun","Atun aleta azul ent. fco.","Thunnus orientalis",368000,368000,4416000,12
 2007,8,2007-08-01,"DAMASTA","Atun","Atun aleta amarilla desv, desc fco","Thunnus albacares",90,108,2970,33
@@ -8185,12 +8185,12 @@
 2007,8,2007-08-01,"LUCINAELENA","Atun","Atun aleta amarilla desv. fco.","Thunnus albacares",150,165,1200,8
 2007,8,2007-08-01,"LUPEDELMAR","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",53000,53000,530000,10
 2007,8,2007-08-01,"LUPEDELMAR","Atun","Atun aleta azul ent. fco.","Thunnus orientalis",258000,258000,3096000,12
+2007,8,2007-08-01,"MAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",39000,39000,390000,10
+2007,8,2007-08-01,"MAANTONIETA","Atun","Atun aleta azul ent. fco.","Thunnus orientalis",15000,15000,180000,12
 2007,8,2007-08-01,"MANZANOIIISURIANO14","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",9,9,90,10
 2007,8,2007-08-01,"MARANATHA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",168000,168000,2854000,17
 2007,8,2007-08-01,"MARANATHA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",3000,3000,36000,12
 2007,8,2007-08-01,"MARANATHA","Bonito","Bonito ent. fco.","Euthynnus alletteratus",5000,5000,40000,8
-2007,8,2007-08-01,"MARIAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",39000,39000,390000,10
-2007,8,2007-08-01,"MARIAANTONIETA","Atun","Atun aleta azul ent. fco.","Thunnus orientalis",15000,15000,180000,12
 2007,8,2007-08-01,"MARIABEATRIZ","Atun","Atun aleta azul ent. fco.","Thunnus orientalis",194000,194000,2328000,12
 2007,8,2007-08-01,"MARIAFERNANDA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",676278,676278,5410224,8
 2007,8,2007-08-01,"MARIAFERNANDA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",237569,237569,1187845,5
@@ -8311,14 +8311,14 @@
 2007,9,2007-09-01,"ENSENADA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",125000,125000,1250000,10
 2007,9,2007-09-01,"ENSENADA","Bonito","Bonito ent. fco.","Euthynnus alletteratus",140000,140000,1400000,10
 2007,9,2007-09-01,"LILIANAL","Atun","Atun ent. fco.","Thunnus spp",134,134,1072,8
+2007,9,2007-09-01,"MAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",8649,8649,60543,7
+2007,9,2007-09-01,"MAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",122134,122134,977072,8
+2007,9,2007-09-01,"MAANTONIETA","Bonito","Bonito ent. fco.","Euthynnus alletteratus",327154,327154,1308616,4
 2007,9,2007-09-01,"MACEL","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",25384,25384,228456,9
 2007,9,2007-09-01,"MACEL","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",4051,4051,24306,6
 2007,9,2007-09-01,"MACEL","Bonito","Bonito ent. fco.","Euthynnus alletteratus",244378,244378,977512,4
 2007,9,2007-09-01,"MARANATHA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",53270,53270,639240,12
 2007,9,2007-09-01,"MARANATHA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",37645,37645,376450,10
-2007,9,2007-09-01,"MARIAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",8649,8649,60543,7
-2007,9,2007-09-01,"MARIAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",122134,122134,977072,8
-2007,9,2007-09-01,"MARIAANTONIETA","Bonito","Bonito ent. fco.","Euthynnus alletteratus",327154,327154,1308616,4
 2007,9,2007-09-01,"MARIABEATRIZ","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",78815,78815,788150,10
 2007,9,2007-09-01,"MARIABEATRIZ","Atun","Atun aleta azul ent. fco.","Thunnus orientalis",10963,10963,120593,11
 2007,9,2007-09-01,"MARIABEATRIZ","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",1430,1430,10010,7
@@ -8479,8 +8479,8 @@
 2007,11,2007-11-01,"CAMILA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",19459,19459,97295,5
 2007,11,2007-11-01,"CAMILA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",779,779,3895,5
 2007,11,2007-11-01,"CARTADEDECES","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",350000,350000,2800000,8
-2007,11,2007-11-01,"CLIPEPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",675866,675866,3379330,5
-2007,11,2007-11-01,"CLIPEPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",42670,42670,213350,5
+2007,11,2007-11-01,"CLIPPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",675866,675866,3379330,5
+2007,11,2007-11-01,"CLIPPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",42670,42670,213350,5
 2007,11,2007-11-01,"CUAUHTEMOC9","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",205399,205399,2259389,11
 2007,11,2007-11-01,"CUAUHTEMOC9","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",14602,14602,58408,4
 2007,11,2007-11-01,"DAMASTA","Atun","Atun aleta amarilla desv. fco.","Thunnus albacares",170,187,6800,40
@@ -8549,13 +8549,13 @@
 2007,11,2007-11-01,"JORGE6","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",189,189,945,5
 2007,11,2007-11-01,"LAVICTORIA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",17000,17000,102000,6
 2007,11,2007-11-01,"LILIANAL","Atun","Atun aleta amarilla desv. fco.","Thunnus albacares",245,269.5,3185,13
+2007,11,2007-11-01,"MAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",113000,113000,791000,7
+2007,11,2007-11-01,"MAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",2720,2720,21760,8
 2007,11,2007-11-01,"MACEL","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",87564,87564,875640,10
 2007,11,2007-11-01,"MACEL","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",20636,20636,136934,7
 2007,11,2007-11-01,"MACEL","Bonito","Bonito ent. fco.","Euthynnus alletteratus",68746,68746,343730,5
 2007,11,2007-11-01,"MARANATHA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",19298,19298,231576,12
 2007,11,2007-11-01,"MARANATHA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",45214,45214,452140,10
-2007,11,2007-11-01,"MARIAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",113000,113000,791000,7
-2007,11,2007-11-01,"MARIAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",2720,2720,21760,8
 2007,11,2007-11-01,"MARIAISABEL1","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",1160,1160,11600,10
 2007,11,2007-11-01,"MARIAISABEL1","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",8020,8020,48120,6
 2007,11,2007-11-01,"MARIALUISA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",324552,324552,2596416,8
@@ -8861,8 +8861,8 @@
 2008,4,2008-04-01,"CAMILA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",14687,14687,146870,10
 2008,4,2008-04-01,"CARTADEDECES","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",303217,303217,2425736,8
 2008,4,2008-04-01,"CARTADEDECES","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",234799,234799,1408794,6
-2008,4,2008-04-01,"CLIPEPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",530561,530561,5305610,10
-2008,4,2008-04-01,"CLIPEPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",543738,543738,5437380,10
+2008,4,2008-04-01,"CLIPPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",530561,530561,5305610,10
+2008,4,2008-04-01,"CLIPPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",543738,543738,5437380,10
 2008,4,2008-04-01,"DAMASTA","Atun","Atun aleta amarilla desv. fco.","Thunnus albacares",120,132,3960,33
 2008,4,2008-04-01,"ELDORADO","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",593132,593132,5931320,10
 2008,4,2008-04-01,"ELDORADO","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",180482,180482,1804820,10
@@ -8903,8 +8903,8 @@
 2008,4,2008-04-01,"JESUSOMARELCHONCHO","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",55,55,275,5
 2008,4,2008-04-01,"LAVICTORIA","Barrilete","Barrilete negro ent. fco.","Katsuwonus pelamis",30000,30000,240000,8
 2008,4,2008-04-01,"LUPEDELMAR","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",360507,360507,1822885,5
-2008,4,2008-04-01,"MARIAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",431730,431730,3022110,7
-2008,4,2008-04-01,"MARIAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",78464,78464,627712,8
+2008,4,2008-04-01,"MAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",431730,431730,3022110,7
+2008,4,2008-04-01,"MAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",78464,78464,627712,8
 2008,4,2008-04-01,"MARIAROSANA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",51500,51500,360500,7
 2008,4,2008-04-01,"MARIAROSANA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",3000,3000,18000,6
 2008,4,2008-04-01,"MAZATUN","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",214425,214425,2144250,10
@@ -8929,8 +8929,8 @@
 2008,5,2008-05-01,"AZTECA4","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",16754,16754,167540,10
 2008,5,2008-05-01,"AZTECA9","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",417436,417436,4174360,10
 2008,5,2008-05-01,"AZTECA9","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",66572,66572,665720,10
-2008,5,2008-05-01,"CLIPEPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",344039,344039,3440390,10
-2008,5,2008-05-01,"CLIPEPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",97791,97791,977910,10
+2008,5,2008-05-01,"CLIPPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",344039,344039,3440390,10
+2008,5,2008-05-01,"CLIPPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",97791,97791,977910,10
 2008,5,2008-05-01,"CONSTANZA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",127526,127526,1020208,8
 2008,5,2008-05-01,"CONSTANZA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",3110,3110,21770,7
 2008,5,2008-05-01,"DAMASTA","Atun","Atun aleta amarilla desv. fco.","Thunnus albacares",60,66,1980,33
@@ -9075,8 +9075,8 @@
 2008,6,2008-06-01,"JALILI1","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",170,170,1700,10
 2008,6,2008-06-01,"LUPEDELMAR","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",657410,657410,5259280,8
 2008,6,2008-06-01,"LUPEDELMAR","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",4590,4590,32130,7
-2008,6,2008-06-01,"MARIAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",263658,263658,1845606,7
-2008,6,2008-06-01,"MARIAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",129981,129981,1039848,8
+2008,6,2008-06-01,"MAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",263658,263658,1845606,7
+2008,6,2008-06-01,"MAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",129981,129981,1039848,8
 2008,6,2008-06-01,"MARIABEATRIZ","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",187039,187039,1496312,8
 2008,6,2008-06-01,"MARIAROSANA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",612381,612381,4899048,8
 2008,6,2008-06-01,"MARIAROSANA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",135277,135277,811662,6
@@ -9168,13 +9168,13 @@
 2008,7,2008-07-01,"JESUSELPIRATA","Atun","Atun ent. fco.","Thunnus spp",300,300,3000,10
 2008,7,2008-07-01,"JESUSOMARELCHONCHO","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",75,75,600,8
 2008,7,2008-07-01,"LAVICTORIA","Barrilete","Barrilete negro ent. fco.","Katsuwonus pelamis",40000,40000,280000,7
+2008,7,2008-07-01,"MAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",29000,29000,348000,12
+2008,7,2008-07-01,"MAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",16000,16000,192000,12
 2008,7,2008-07-01,"MACEL","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",16792,16792,184712,11
 2008,7,2008-07-01,"MACEL","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",10407,10407,83256,8
 2008,7,2008-07-01,"MARANATHA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",68629,68629,823548,12
 2008,7,2008-07-01,"MARANATHA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",21682,21682,216820,10
 2008,7,2008-07-01,"MARANATHA","Bonito","Bonito ent. fco.","Euthynnus alletteratus",8863,8863,88630,10
-2008,7,2008-07-01,"MARIAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",29000,29000,348000,12
-2008,7,2008-07-01,"MARIAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",16000,16000,192000,12
 2008,7,2008-07-01,"MARIAFERNANDA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",607236,607236,4857888,8
 2008,7,2008-07-01,"MARIAFERNANDA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",341656,341656,1708280,5
 2008,7,2008-07-01,"MARIAGABRIELA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",81047,81047,972564,12
@@ -9233,9 +9233,9 @@
 2008,8,2008-08-01,"CHACMOOL","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",42000,42000,420000,10
 2008,8,2008-08-01,"CHACMOOL","Atun","Atun aleta azul ent. fco.","Thunnus orientalis",390000,390000,5850000,15
 2008,8,2008-08-01,"CHELELO","Atun","Atun ent. fco.","Thunnus spp",120,120,1200,10
-2008,8,2008-08-01,"CLIPEPERTON","Atun","Albacora ent. fca.","Thunnus alalunga",298,298,2980,10
-2008,8,2008-08-01,"CLIPEPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",40045,40045,400450,10
-2008,8,2008-08-01,"CLIPEPERTON","Atun","Atun aleta azul ent. fco.","Thunnus orientalis",318000,318000,3180000,10
+2008,8,2008-08-01,"CLIPPERTON","Atun","Albacora ent. fca.","Thunnus alalunga",298,298,2980,10
+2008,8,2008-08-01,"CLIPPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",40045,40045,400450,10
+2008,8,2008-08-01,"CLIPPERTON","Atun","Atun aleta azul ent. fco.","Thunnus orientalis",318000,318000,3180000,10
 2008,8,2008-08-01,"DAMASTA","Atun","Atun aleta amarilla desv. fco.","Thunnus albacares",66,72.6,2178,33
 2008,8,2008-08-01,"DONADELFINA1","Atun","Atun ent. fco.","Thunnus spp",90,90,900,10
 2008,8,2008-08-01,"DONADELFINA1","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",85,85,680,8
@@ -9303,9 +9303,9 @@
 2008,8,2008-08-01,"LUPEDELMAR","Atun","Atun aleta azul ent. fco.","Thunnus orientalis",436000,436000,5817000,13
 2008,8,2008-08-01,"LUPEDELMAR","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",138227,138227,967589,7
 2008,8,2008-08-01,"LUPEDELMAR","Bonito","Bonito ent. fco.","Euthynnus alletteratus",84022,84022,420110,5
-2008,8,2008-08-01,"MARIAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",165692,165692,1325536,8
-2008,8,2008-08-01,"MARIAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",22012,22012,154084,7
-2008,8,2008-08-01,"MARIAANTONIETA","Bonito","Bonito ent. fco.","Euthynnus alletteratus",21325,21325,106625,5
+2008,8,2008-08-01,"MAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",165692,165692,1325536,8
+2008,8,2008-08-01,"MAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",22012,22012,154084,7
+2008,8,2008-08-01,"MAANTONIETA","Bonito","Bonito ent. fco.","Euthynnus alletteratus",21325,21325,106625,5
 2008,8,2008-08-01,"MARIABEATRIZ","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",29314,29314,293140,10
 2008,8,2008-08-01,"MARIABEATRIZ","Atun","Atun aleta azul ent. fco.","Thunnus orientalis",239000,239000,4063000,17
 2008,8,2008-08-01,"MARIABEATRIZ","Bonito","Bonito ent. fco.","Euthynnus alletteratus",22043,22043,176344,8
@@ -9570,9 +9570,9 @@
 2008,11,2008-11-01,"CHACMOOL","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",35000,35000,245000,7
 2008,11,2008-11-01,"CHACMOOL","Bonito","Bonito ent. fco.","Euthynnus alletteratus",170000,170000,850000,5
 2008,11,2008-11-01,"CHRIS","Atun","Atun ent. fco.","Thunnus spp",50,50,500,10
-2008,11,2008-11-01,"CLIPEPERTON","Atun","Albacora ent. fca.","Thunnus alalunga",45335,45335,453350,10
-2008,11,2008-11-01,"CLIPEPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",370119,370119,3701190,10
-2008,11,2008-11-01,"CLIPEPERTON","Bonito","Bonito ent. fco.","Euthynnus alletteratus",25067,25067,250670,10
+2008,11,2008-11-01,"CLIPPERTON","Atun","Albacora ent. fca.","Thunnus alalunga",45335,45335,453350,10
+2008,11,2008-11-01,"CLIPPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",370119,370119,3701190,10
+2008,11,2008-11-01,"CLIPPERTON","Bonito","Bonito ent. fco.","Euthynnus alletteratus",25067,25067,250670,10
 2008,11,2008-11-01,"CONSTANZA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",326000,326000,3260000,10
 2008,11,2008-11-01,"CONSTANZA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",29000,29000,232000,8
 2008,11,2008-11-01,"DAMASTA","Atun","Atun aleta amarilla desv. fco.","Thunnus albacares",50,55,1800,36
@@ -9634,7 +9634,7 @@
 2008,11,2008-11-01,"ENSENADA","Barrilete","Barrilete negro ent. fco.","Katsuwonus pelamis",168329,168329,1009974,6
 2008,11,2008-11-01,"FRANZ","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",290158,290158,2901580,10
 2008,11,2008-11-01,"LOSGUICOS","Atun","Atun desv. fco.","Thunnus spp",110,121,550,5
-2008,11,2008-11-01,"MARIAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",27000,27000,810000,30
+2008,11,2008-11-01,"MAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",27000,27000,810000,30
 2008,11,2008-11-01,"MARIAFERNANDA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",63458,63458,317290,5
 2008,11,2008-11-01,"MARIAGABRIELA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",20681,20681,248172,12
 2008,11,2008-11-01,"MARIAGABRIELA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",25983,25983,259830,10
@@ -9674,8 +9674,8 @@
 2008,12,2008-12-01,"CAMILA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",87243,87243,872430,10
 2008,12,2008-12-01,"CAMILA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",34557,34557,345570,10
 2008,12,2008-12-01,"CHRIS","Atun","Atun aleta azul ent. fco.","Thunnus orientalis",5,5,50,10
-2008,12,2008-12-01,"CLIPEPERTON","Atun","Albacora ent. fca.","Thunnus alalunga",2194,2194,21940,10
-2008,12,2008-12-01,"CLIPEPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",286197,286197,2861970,10
+2008,12,2008-12-01,"CLIPPERTON","Atun","Albacora ent. fca.","Thunnus alalunga",2194,2194,21940,10
+2008,12,2008-12-01,"CLIPPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",286197,286197,2861970,10
 2008,12,2008-12-01,"CONSTANZA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",341484,341484,1707420,5
 2008,12,2008-12-01,"CONSTANZA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",3335,3335,10005,3
 2008,12,2008-12-01,"DAMASTA","Atun","Atun aleta amarilla desv. fco.","Thunnus albacares",150,165,6360,42
@@ -9765,8 +9765,8 @@
 2009,1,2009-01-01,"ASDEOROS","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",40,40,1440,36
 2009,1,2009-01-01,"AZTECA2","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",599234,599234,5992340,10
 2009,1,2009-01-01,"AZTECA2","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",3771,3771,37710,10
-2009,1,2009-01-01,"CLIPEPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",153270,153270,1532700,10
-2009,1,2009-01-01,"CLIPEPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",22,22,220,10
+2009,1,2009-01-01,"CLIPPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",153270,153270,1532700,10
+2009,1,2009-01-01,"CLIPPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",22,22,220,10
 2009,1,2009-01-01,"EMBARCACIONGENERICA","Atun","Albacora ent. fca.","Thunnus alalunga",8223,8223,49338,6
 2009,1,2009-01-01,"EMBARCACIONGENERICA","Atun","Atun aleta amarilla desv. fco.","Thunnus albacares",249,273.9,2241,9
 2009,1,2009-01-01,"EMBARCACIONGENERICA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",30,30,600,20
@@ -9952,8 +9952,8 @@
 2009,3,2009-03-01,"LILIANAL","Atun","Atun desv. fco.","Thunnus spp",389,427.9,7780,20
 2009,3,2009-03-01,"LUCINAELENA","Atun","Atun aleta amarilla desv. fco.","Thunnus albacares",120,132,5040,42
 2009,3,2009-03-01,"LUPEDELMAR","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",27514,27514,220112,8
-2009,3,2009-03-01,"MARIAANTONIETA","Atun","Atun aleta amarilla desv. fco.","Thunnus albacares",312883,344171.3,3754596,12
-2009,3,2009-03-01,"MARIAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",5009,5009,45081,9
+2009,3,2009-03-01,"MAANTONIETA","Atun","Atun aleta amarilla desv. fco.","Thunnus albacares",312883,344171.3,3754596,12
+2009,3,2009-03-01,"MAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",5009,5009,45081,9
 2009,3,2009-03-01,"MARIAFERNANDA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",43057,43057,215285,5
 2009,3,2009-03-01,"MARIAROSANA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",138584,138584,970088,7
 2009,3,2009-03-01,"MAZCU1","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",44615,44615,356920,8
@@ -9975,8 +9975,8 @@
 2009,4,2009-04-01,"BONNIE","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",654255,654255,5234040,8
 2009,4,2009-04-01,"BONNIE","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",1294,1294,7764,6
 2009,4,2009-04-01,"BUENAVENTURA2","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",475279,475279,3802232,8
-2009,4,2009-04-01,"CLIPEPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",641582,641582,5132656,8
-2009,4,2009-04-01,"CLIPEPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",19979,19979,159832,8
+2009,4,2009-04-01,"CLIPPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",641582,641582,5132656,8
+2009,4,2009-04-01,"CLIPPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",19979,19979,159832,8
 2009,4,2009-04-01,"DAMASTA","Atun","Atun aleta amarilla desv. fco.","Thunnus albacares",80,88,3120,39
 2009,4,2009-04-01,"DANIELFRANCISCOLITO","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",150,150,1200,8
 2009,4,2009-04-01,"DONADELFINA1","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",50,50,400,8
@@ -10134,8 +10134,8 @@
 2009,6,2009-06-01,"CARTADEDECES","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",228071,228071,1824568,8
 2009,6,2009-06-01,"CARTADEDECES","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",14036,14036,84216,6
 2009,6,2009-06-01,"CENTAURODELNORTE","Atun","Atun aleta amarilla desv, desc fco","Thunnus albacares",400,480,12000,30
-2009,6,2009-06-01,"CLIPEPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",539996,539996,4319968,8
-2009,6,2009-06-01,"CLIPEPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",5524,5524,44192,8
+2009,6,2009-06-01,"CLIPPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",539996,539996,4319968,8
+2009,6,2009-06-01,"CLIPPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",5524,5524,44192,8
 2009,6,2009-06-01,"CONSTANZA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",354606,354606,3546060,10
 2009,6,2009-06-01,"CONSTANZA","Barrilete","Barrilete negro ent. fco.","Katsuwonus pelamis",3027,3027,9081,3
 2009,6,2009-06-01,"ELDORADO","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",34504,34504,276032,8
@@ -10180,7 +10180,7 @@
 2009,6,2009-06-01,"ENSENADA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",230000,230000,2760000,12
 2009,6,2009-06-01,"FRANZ","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",13693,13693,109544,8
 2009,6,2009-06-01,"LAVICTORIA","Barrilete","Barrilete negro ent. fco.","Katsuwonus pelamis",97000,97000,679000,7
-2009,6,2009-06-01,"MARIAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",12163,12163,97304,8
+2009,6,2009-06-01,"MAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",12163,12163,97304,8
 2009,6,2009-06-01,"MARIAFERNANDA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",660047,660047,5280376,8
 2009,6,2009-06-01,"MARIAFERNANDA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",14371,14371,71855,5
 2009,6,2009-06-01,"MARIALUISA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",675585,675585,5404680,8
@@ -10415,9 +10415,9 @@
 2009,9,2009-09-01,"BUENAVENTURA2","Bonito","Bonito ent. fco.","Euthynnus alletteratus",265000,265000,1590000,6
 2009,9,2009-09-01,"CENTAURODELNORTE","Atun","Atun aleta amarilla desv, desc fco","Thunnus albacares",360,432,3600,10
 2009,9,2009-09-01,"CHRIS","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",10,10,100,10
-2009,9,2009-09-01,"CLIPEPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",665672,665672,5325376,8
-2009,9,2009-09-01,"CLIPEPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",16249,16249,129992,8
-2009,9,2009-09-01,"CLIPEPERTON","Bonito","Bonito ent. fco.","Euthynnus alletteratus",286211,286211,2289688,8
+2009,9,2009-09-01,"CLIPPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",665672,665672,5325376,8
+2009,9,2009-09-01,"CLIPPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",16249,16249,129992,8
+2009,9,2009-09-01,"CLIPPERTON","Bonito","Bonito ent. fco.","Euthynnus alletteratus",286211,286211,2289688,8
 2009,9,2009-09-01,"CORSARIO","Atun","Atun aleta amarilla desv. fco.","Thunnus albacares",69,75.9,621,9
 2009,9,2009-09-01,"EMBARCACIONGENERICA","Atun","Albacora ent. fca.","Thunnus alalunga",63,63,756,12
 2009,9,2009-09-01,"EMBARCACIONGENERICA","Atun","Albacora ent. fca.","Thunnus alalunga",290,290,3480,12
@@ -10474,14 +10474,14 @@
 2009,9,2009-09-01,"JAGUAR","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",65909,65909,329545,5
 2009,9,2009-09-01,"LUPEDELMAR","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",450963,450963,4509630,10
 2009,9,2009-09-01,"LUPEDELMAR","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",11791,11791,94328,8
+2009,9,2009-09-01,"MAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",261958,261958,2619580,10
+2009,9,2009-09-01,"MAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",19578,19578,97890,5
+2009,9,2009-09-01,"MAANTONIETA","Bonito","Bonito ent. fco.","Euthynnus alletteratus",495866,495866,4958660,10
 2009,9,2009-09-01,"MACEL","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",31559,31559,347149,11
 2009,9,2009-09-01,"MACEL","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",289,289,2312,8
 2009,9,2009-09-01,"MACEL","Bonito","Bonito ent. fco.","Euthynnus alletteratus",428505,428505,2999535,7
 2009,9,2009-09-01,"MARANATHA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",91729,91729,1100748,12
 2009,9,2009-09-01,"MARANATHA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",1555,1555,18660,12
-2009,9,2009-09-01,"MARIAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",261958,261958,2619580,10
-2009,9,2009-09-01,"MARIAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",19578,19578,97890,5
-2009,9,2009-09-01,"MARIAANTONIETA","Bonito","Bonito ent. fco.","Euthynnus alletteratus",495866,495866,4958660,10
 2009,9,2009-09-01,"MARIABEATRIZ","Bonito","Bonito ent. fco.","Euthynnus alletteratus",449341,449341,4493410,10
 2009,9,2009-09-01,"MARIAISABEL1","Bonito","Bonito ent. fco.","Euthynnus alletteratus",332277,332277,2325939,7
 2009,9,2009-09-01,"MARIALUISA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",3024,3024,15120,5
@@ -10688,11 +10688,11 @@
 2009,11,2009-11-01,"EMBARCACIONGENERICA","Bonito","Bonito ent. fco.","Euthynnus alletteratus",593,593,2485,4
 2009,11,2009-11-01,"EMBARCACIONGENERICA","Bonito","Bonito ent. fco.","Euthynnus alletteratus",1610,1610,13630,8
 2009,11,2009-11-01,"HANNA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",49927,49927,399416,8
+2009,11,2009-11-01,"MAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",15154,15154,197002,13
 2009,11,2009-11-01,"MACEL","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",93000,93000,1023000,11
 2009,11,2009-11-01,"MACEL","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",13209,13209,105672,8
 2009,11,2009-11-01,"MARANATHA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",14000,14000,168000,12
 2009,11,2009-11-01,"MARANATHA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",10000,10000,120000,12
-2009,11,2009-11-01,"MARIAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",15154,15154,197002,13
 2009,11,2009-11-01,"MARIAFERNANDA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",307022,307022,2456176,8
 2009,11,2009-11-01,"MARIAFERNANDA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",991,991,4955,5
 2009,11,2009-11-01,"MARIAGABRIELA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",43936,43936,527232,12
@@ -10742,8 +10742,8 @@
 2009,12,2009-12-01,"AZTECA7","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",589875,589875,4719000,8
 2009,12,2009-12-01,"AZTECA8","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",530855,530855,4246840,8
 2009,12,2009-12-01,"AZTECA8","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",14875,14875,119000,8
-2009,12,2009-12-01,"CLIPEPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",526230,526230,4209840,8
-2009,12,2009-12-01,"CLIPEPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",17247,17247,137976,8
+2009,12,2009-12-01,"CLIPPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",526230,526230,4209840,8
+2009,12,2009-12-01,"CLIPPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",17247,17247,137976,8
 2009,12,2009-12-01,"CONSTANZA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",145081,145081,435243,3
 2009,12,2009-12-01,"DONNICO","Atun","Atun desv. fco.","Thunnus spp",100,110,1500,15
 2009,12,2009-12-01,"ELGLADIADOR","Atun","Atun aleta amarilla ent. fco. (desc. pto","Thunnus albacares",120,120,1200,10
@@ -10944,7 +10944,7 @@
 2010,3,2010-03-01,"CARTADEDECES","Atun","Atun aleta amarilla  ent. fco. ( avisos","Thunnus albacares",284913,284913,2279304,8
 2010,3,2010-03-01,"CARTADEDECES","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",516005,516005,4128040,8
 2010,3,2010-03-01,"CARTADEDECES","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",74292,74292,445752,6
-2010,3,2010-03-01,"CLIPEPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",5259,5259,42072,8
+2010,3,2010-03-01,"CLIPPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",5259,5259,42072,8
 2010,3,2010-03-01,"CONSTANZA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",488136,488136,3905088,8
 2010,3,2010-03-01,"CONSTANZA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",59815,59815,299075,5
 2010,3,2010-03-01,"DAMASTA","Atun","Atun aleta amarilla desv. fco.","Thunnus albacares",300,330,8400,28
@@ -11009,7 +11009,7 @@
 2010,3,2010-03-01,"ISLADELAPIEDRA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",18214,18214,91070,5
 2010,3,2010-03-01,"KARENGARCIA","Atun","Atun desv. fco.","Thunnus spp",180,198,1800,10
 2010,3,2010-03-01,"LAVICTORIA","Barrilete","Barrilete desv. fco.","Katsuwonus pelamis",85000,93500,680000,8
-2010,3,2010-03-01,"MARIAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",495466,495466,4954660,10
+2010,3,2010-03-01,"MAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",495466,495466,4954660,10
 2010,3,2010-03-01,"MARIALUISA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",60837,60837,304185,5
 2010,3,2010-03-01,"MARIALUISA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",60870,60870,486960,8
 2010,3,2010-03-01,"MARIAVERONICA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",31134,31134,155670,5
@@ -11188,7 +11188,7 @@
 2010,6,2010-06-01,"BUENAVENTURA1","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",9755,9755,48775,5
 2010,6,2010-06-01,"CENTAURODELNORTE","Atun","Atun aleta amarilla desv, desc fco","Thunnus albacares",150,180,1500,10
 2010,6,2010-06-01,"CHACMOOL","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",266000,266000,3135000,12
-2010,6,2010-06-01,"CLIPEPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",34739,34739,277912,8
+2010,6,2010-06-01,"CLIPPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",34739,34739,277912,8
 2010,6,2010-06-01,"CONSTANZA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",586862,586862,4694896,8
 2010,6,2010-06-01,"CONSTANZA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",37764,37764,188820,5
 2010,6,2010-06-01,"CORSARIO","Atun","Atun aleta amarilla desv. fco.","Thunnus albacares",351,386.1,2143,6
@@ -11305,8 +11305,8 @@
 2010,7,2010-07-01,"EMBARCACIONGENERICA","Bonito","Bonito ent. fco.","Euthynnus alletteratus",2692,2692,16828,6
 2010,7,2010-07-01,"FRANZ","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",274192,274192,2193536,8
 2010,7,2010-07-01,"HANNA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",39021,39021,312168,8
-2010,7,2010-07-01,"MARIAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",488335,488335,3906680,8
-2010,7,2010-07-01,"MARIAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",16545,16545,82725,5
+2010,7,2010-07-01,"MAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",488335,488335,3906680,8
+2010,7,2010-07-01,"MAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",16545,16545,82725,5
 2010,7,2010-07-01,"MARIAFERNANDA","Atun","Atun aleta azul ent. fco.","Thunnus orientalis",454389,454389,3635112,8
 2010,7,2010-07-01,"MARIAFERNANDA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",328311,328311,1641555,5
 2010,7,2010-07-01,"MARIAISABEL1","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",154108,154108,1849296,12
@@ -11386,8 +11386,8 @@
 2010,8,2010-08-01,"JAGUAR","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",480,480,4800,10
 2010,8,2010-08-01,"JAGUAR","Barrilete","Barrilete negro ent. fco.","Katsuwonus pelamis",19,19,190,10
 2010,8,2010-08-01,"LOSGUICOS","Atun","Atun desv. fco.","Thunnus spp",116,127.6,1160,10
-2010,8,2010-08-01,"MARIAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",330340,330340,3964080,12
-2010,8,2010-08-01,"MARIAANTONIETA","Barrilete","Barrilete negro ent. fco.","Katsuwonus pelamis",6481,6481,64810,10
+2010,8,2010-08-01,"MAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",330340,330340,3964080,12
+2010,8,2010-08-01,"MAANTONIETA","Barrilete","Barrilete negro ent. fco.","Katsuwonus pelamis",6481,6481,64810,10
 2010,8,2010-08-01,"MARIALUISA","Atun","Atun aleta azul ent. fco.","Thunnus orientalis",60000,60000,3e+05,5
 2010,8,2010-08-01,"MAZATUN","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",233838,233838,1870704,8
 2010,8,2010-08-01,"MAZCU1","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",114725,114725,1032525,9
@@ -11421,8 +11421,8 @@
 2010,9,2010-09-01,"BUENAVENTURA2","Bonito","Bonito ent. fco.","Euthynnus alletteratus",63545,63545,444815,7
 2010,9,2010-09-01,"CENTAURODELNORTE","Atun","Atun aleta amarilla  ent. fco. ( avisos","Thunnus albacares",40,40,400,10
 2010,9,2010-09-01,"CHACMOOL","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",3e+05,3e+05,3e+06,10
-2010,9,2010-09-01,"CLIPEPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",7429,7429,59432,8
-2010,9,2010-09-01,"CLIPEPERTON","Bonito","Bonito ent. fco.","Euthynnus alletteratus",14227,14227,113816,8
+2010,9,2010-09-01,"CLIPPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",7429,7429,59432,8
+2010,9,2010-09-01,"CLIPPERTON","Bonito","Bonito ent. fco.","Euthynnus alletteratus",14227,14227,113816,8
 2010,9,2010-09-01,"CONQUISTADOR2","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",100,100,500,5
 2010,9,2010-09-01,"CONSTANZA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",62971,62971,314855,5
 2010,9,2010-09-01,"CORINADELMAR","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",75,75,750,10
@@ -11482,13 +11482,13 @@
 2010,9,2010-09-01,"HANNA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",616171,616171,4929368,8
 2010,9,2010-09-01,"HANNA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",99,99,792,8
 2010,9,2010-09-01,"ISLADELAPIEDRA","Bonito","Bonito ent. fco.","Euthynnus alletteratus",18895,18895,132265,7
+2010,9,2010-09-01,"MAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",125875,125875,1007000,8
+2010,9,2010-09-01,"MAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",63277,63277,316385,5
+2010,9,2010-09-01,"MAANTONIETA","Bonito","Bonito ent. fco.","Euthynnus alletteratus",77885,77885,389425,5
 2010,9,2010-09-01,"MACEL","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",144463,144463,1878019,13
 2010,9,2010-09-01,"MACEL","Atun","Atun aleta azul ent. fco.","Thunnus orientalis",20011,20011,260143,13
 2010,9,2010-09-01,"MACEL","Barrilete","Barrilete negro ent. fco.","Katsuwonus pelamis",80538,80538,483228,6
 2010,9,2010-09-01,"MACEL","Bonito","Bonito ent. fco.","Euthynnus alletteratus",139661,139661,1117288,8
-2010,9,2010-09-01,"MARIAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",125875,125875,1007000,8
-2010,9,2010-09-01,"MARIAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",63277,63277,316385,5
-2010,9,2010-09-01,"MARIAANTONIETA","Bonito","Bonito ent. fco.","Euthynnus alletteratus",77885,77885,389425,5
 2010,9,2010-09-01,"MARIABEATRIZ","Atun","Albacora ent. fca.","Thunnus alalunga",160,160,1600,10
 2010,9,2010-09-01,"MARIABEATRIZ","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",270046,270046,3510598,13
 2010,9,2010-09-01,"MARIABEATRIZ","Atun","Atun aleta azul ent. fco.","Thunnus orientalis",79523,79523,1033799,13
@@ -11533,8 +11533,8 @@
 2010,10,2010-10-01,"AZTECA9","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",26720,26720,213760,8
 2010,10,2010-10-01,"AZTECA9","Bonito","Bonito ent. fco.","Euthynnus alletteratus",183832,183832,1470656,8
 2010,10,2010-10-01,"CHRIS","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",33,33,825,25
-2010,10,2010-10-01,"CLIPEPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",465230,465230,3721840,8
-2010,10,2010-10-01,"CLIPEPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",64,64,512,8
+2010,10,2010-10-01,"CLIPPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",465230,465230,3721840,8
+2010,10,2010-10-01,"CLIPPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",64,64,512,8
 2010,10,2010-10-01,"CORSARIO","Atun","Atun aleta amarilla desv. fco.","Thunnus albacares",144,158.4,1440,10
 2010,10,2010-10-01,"DONGUSTAVO","Atun","Atun ent. fco.","Thunnus spp",10,10,10,1
 2010,10,2010-10-01,"DONGUSTAVO","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",10,10,10,1
@@ -11745,10 +11745,10 @@
 2010,11,2010-11-01,"JAGUAR","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",292000,292000,2920000,10
 2010,11,2010-11-01,"JAGUAR","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",40000,40000,4e+05,10
 2010,11,2010-11-01,"KARENGARCIA","Atun","Atun desv. fco.","Thunnus spp",80,88,800,10
+2010,11,2010-11-01,"MAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",600096,600096,4800768,8
+2010,11,2010-11-01,"MAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",10939,10939,54695,5
 2010,11,2010-11-01,"MACEL","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",127737,127737,1660581,13
 2010,11,2010-11-01,"MACEL","Barrilete","Barrilete negro ent. fco.","Katsuwonus pelamis",11187,11187,67122,6
-2010,11,2010-11-01,"MARIAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",600096,600096,4800768,8
-2010,11,2010-11-01,"MARIAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",10939,10939,54695,5
 2010,11,2010-11-01,"MARIAFERNANDA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",64822,64822,518576,8
 2010,11,2010-11-01,"MARIAROSANA","Atun","Atun aleta amarilla ent. fco. (desc. pto","Thunnus albacares",227000,227000,3632000,16
 2010,11,2010-11-01,"MARIAROSANA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",2000,2000,26000,13
@@ -12075,9 +12075,9 @@
 2011,3,2011-03-01,"LESLIE","Atun","Atun desv. fco.","Thunnus spp",315,346.5,3150,10
 2011,3,2011-03-01,"LOSGUICOS","Atun","Atun desv. fco.","Thunnus spp",410,451,4100,10
 2011,3,2011-03-01,"LUCINAELENA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",35,35,1400,40
+2011,3,2011-03-01,"MAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",489961,489961,3919688,8
+2011,3,2011-03-01,"MAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",7906,7906,39530,5
 2011,3,2011-03-01,"MACEL","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",205501,205501,2671513,13
-2011,3,2011-03-01,"MARIAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",489961,489961,3919688,8
-2011,3,2011-03-01,"MARIAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",7906,7906,39530,5
 2011,3,2011-03-01,"MARIABEATRIZ","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",941,941,6587,7
 2011,3,2011-03-01,"MARIAFERNANDA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",14528,14528,116224,8
 2011,3,2011-03-01,"MARIAROSANA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",82000,82000,1230000,15
@@ -12113,7 +12113,7 @@
 2011,4,2011-04-01,"CARTADEDECES","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",56781,56781,340686,6
 2011,4,2011-04-01,"CENTAURODELNORTE","Atun","Atun aleta amarilla desv, desc fco","Thunnus albacares",350,420,3500,10
 2011,4,2011-04-01,"CHACMOOL","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",258000,258000,2064000,8
-2011,4,2011-04-01,"CLIPEPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",16449,16449,131592,8
+2011,4,2011-04-01,"CLIPPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",16449,16449,131592,8
 2011,4,2011-04-01,"CORSARIO","Atun","Atun aleta amarilla desv. fco.","Thunnus albacares",145,159.5,1450,10
 2011,4,2011-04-01,"DONADELFINA1","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",260,260,2600,10
 2011,4,2011-04-01,"DONANTONIOPEREZ9","Atun","Atun ent. fco.","Thunnus spp",110,110,660,6
@@ -12271,9 +12271,9 @@
 2011,5,2011-05-01,"ISLADELAPIEDRA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",29322,29322,293220,10
 2011,5,2011-05-01,"JAGUAR","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",467000,467000,4670000,10
 2011,5,2011-05-01,"JAGUAR","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",6000,6000,60000,10
+2011,5,2011-05-01,"MAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",32443,32443,162215,5
 2011,5,2011-05-01,"MACEL","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",245976,245976,3197688,13
 2011,5,2011-05-01,"MACEL","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",54951,54951,549510,10
-2011,5,2011-05-01,"MARIAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",32443,32443,162215,5
 2011,5,2011-05-01,"MARIABEATRIZ","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",424766,424766,5521958,13
 2011,5,2011-05-01,"MARIABEATRIZ","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",2458,2458,17206,7
 2011,5,2011-05-01,"MARIAROSANA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",10000,10000,110000,11
@@ -12387,8 +12387,8 @@
 2011,6,2011-06-01,"ISLADELAPIEDRA","Barrilete","Barrilete negro ent. fco.","Katsuwonus pelamis",971,971,4855,5
 2011,6,2011-06-01,"LAVICTORIA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",120000,120000,1380000,12
 2011,6,2011-06-01,"LAVICTORIA","Barrilete","Barrilete negro ent. fco.","Katsuwonus pelamis",10000,10000,80000,8
-2011,6,2011-06-01,"MARIAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",276444,276444,2764440,10
-2011,6,2011-06-01,"MARIAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",55840,55840,446720,8
+2011,6,2011-06-01,"MAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",276444,276444,2764440,10
+2011,6,2011-06-01,"MAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",55840,55840,446720,8
 2011,6,2011-06-01,"MARIALUISA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",23353,23353,186824,8
 2011,6,2011-06-01,"MARIAROSANA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",152000,152000,3344000,22
 2011,6,2011-06-01,"MAZATUN","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",78501,78501,628008,8
@@ -12419,7 +12419,7 @@
 2011,7,2011-07-01,"BUENAVENTURA2","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",20685,20685,165480,8
 2011,7,2011-07-01,"CARTADEDECES","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",509919,509919,4079352,8
 2011,7,2011-07-01,"CARTADEDECES","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",95340,95340,572040,6
-2011,7,2011-07-01,"CLIPEPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",63981,63981,511848,8
+2011,7,2011-07-01,"CLIPPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",63981,63981,511848,8
 2011,7,2011-07-01,"CORSARIO","Atun","Atun aleta amarilla desv. fco.","Thunnus albacares",120,132,1200,10
 2011,7,2011-07-01,"CRUSTACEOSI","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",3480,3480,25896,7
 2011,7,2011-07-01,"DAMASTA","Atun","Atun aleta amarilla desv, desc fco","Thunnus albacares",250,300,6000,24
@@ -12495,9 +12495,9 @@
 2011,7,2011-07-01,"LAVICTORIA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",60000,60000,720000,12
 2011,7,2011-07-01,"LAVICTORIA","Barrilete","Barrilete negro ent. fco.","Katsuwonus pelamis",23000,23000,184000,8
 2011,7,2011-07-01,"LOSGUICOS","Atun","Atun aleta amarilla desv. fco.","Thunnus albacares",330,363,3960,12
+2011,7,2011-07-01,"MAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",569113,569113,5691130,10
+2011,7,2011-07-01,"MAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",331608,331608,2652864,8
 2011,7,2011-07-01,"MARBEA2","Atun","Atun ent. fco.","Thunnus spp",250,250,1000,4
-2011,7,2011-07-01,"MARIAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",569113,569113,5691130,10
-2011,7,2011-07-01,"MARIAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",331608,331608,2652864,8
 2011,7,2011-07-01,"MARIAISABEL1","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",275951,275951,3587363,13
 2011,7,2011-07-01,"MARIAISABEL1","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",7745,7745,54215,7
 2011,7,2011-07-01,"MARIALUISA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",3943,3943,31544,8
@@ -12536,8 +12536,8 @@
 2011,8,2011-08-01,"BUENAVENTURA1","Atun","Atun aleta azul ent. fco.","Thunnus orientalis",566000,566000,5660000,10
 2011,8,2011-08-01,"BUENAVENTURA2","Atun","Atun aleta azul ent. fco.","Thunnus orientalis",512000,512000,5120000,10
 2011,8,2011-08-01,"CHACMOOL","Atun","Atun aleta azul ent. fco.","Thunnus orientalis",60000,60000,720000,12
-2011,8,2011-08-01,"CLIPEPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",316844,316844,2534752,8
-2011,8,2011-08-01,"CLIPEPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",52685,52685,421480,8
+2011,8,2011-08-01,"CLIPPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",316844,316844,2534752,8
+2011,8,2011-08-01,"CLIPPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",52685,52685,421480,8
 2011,8,2011-08-01,"CONSTANZA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",299294,299294,2992940,10
 2011,8,2011-08-01,"CONSTANZA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",51714,51714,413712,8
 2011,8,2011-08-01,"CONSTANZA","Bonito","Bonito ent. fco.","Euthynnus alletteratus",41898,41898,335184,8
@@ -12755,10 +12755,10 @@
 2011,9,2011-09-01,"LAVICTORIA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",110000,110000,1320000,12
 2011,9,2011-09-01,"LUCINAELENA","Atun","Atun aleta amarilla desv. fco.","Thunnus albacares",160,176,3200,20
 2011,9,2011-09-01,"LUCINAELENA","Bonito","Bonito desv. fco.","Euthynnus alletteratus",200,220,2400,12
-2011,9,2011-09-01,"MARIAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",441265,441265,4412650,10
-2011,9,2011-09-01,"MARIAANTONIETA","Atun","Atun aleta azul ent. fco.","Thunnus orientalis",148081,148081,1480810,10
-2011,9,2011-09-01,"MARIAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",227952,227952,1823616,8
-2011,9,2011-09-01,"MARIAANTONIETA","Bonito","Bonito ent. fco.","Euthynnus alletteratus",41223,41223,329784,8
+2011,9,2011-09-01,"MAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",441265,441265,4412650,10
+2011,9,2011-09-01,"MAANTONIETA","Atun","Atun aleta azul ent. fco.","Thunnus orientalis",148081,148081,1480810,10
+2011,9,2011-09-01,"MAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",227952,227952,1823616,8
+2011,9,2011-09-01,"MAANTONIETA","Bonito","Bonito ent. fco.","Euthynnus alletteratus",41223,41223,329784,8
 2011,9,2011-09-01,"MARIALUISA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",351050,351050,3510500,10
 2011,9,2011-09-01,"MARIALUISA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",494402,494402,3955216,8
 2011,9,2011-09-01,"MARIAROSANA","Bonito","Bonito ent. fco.","Euthynnus alletteratus",72000,72000,720000,10
@@ -12866,10 +12866,10 @@
 2011,10,2011-10-01,"HANNA","Bonito","Bonito ent. fco.","Euthynnus alletteratus",618594,618594,4948752,8
 2011,10,2011-10-01,"JAGUAR","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",177071,177071,1416568,8
 2011,10,2011-10-01,"JAGUAR","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",17553,17553,105318,6
-2011,10,2011-10-01,"MARIAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",224948,224948,3374220,15
-2011,10,2011-10-01,"MARIAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",145803,145803,729015,5
-2011,10,2011-10-01,"MARIAANTONIETA","Barrilete","Barrilete negro ent. fco.","Katsuwonus pelamis",191803,191803,959015,5
-2011,10,2011-10-01,"MARIAANTONIETA","Bonito","Bonito ent. fco.","Euthynnus alletteratus",337518,337518,1687590,5
+2011,10,2011-10-01,"MAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",224948,224948,3374220,15
+2011,10,2011-10-01,"MAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",145803,145803,729015,5
+2011,10,2011-10-01,"MAANTONIETA","Barrilete","Barrilete negro ent. fco.","Katsuwonus pelamis",191803,191803,959015,5
+2011,10,2011-10-01,"MAANTONIETA","Bonito","Bonito ent. fco.","Euthynnus alletteratus",337518,337518,1687590,5
 2011,10,2011-10-01,"MARIABEATRIZ","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",132822,132822,1726686,13
 2011,10,2011-10-01,"MARIABEATRIZ","Bonito","Bonito ent. fco.","Euthynnus alletteratus",325081,325081,3250810,10
 2011,10,2011-10-01,"MARIAFERNANDA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",300020,300020,3000200,10
@@ -12898,9 +12898,9 @@
 2011,11,2011-11-01,"BUENAVENTURA2","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",32368,32368,258944,8
 2011,11,2011-11-01,"CHACMOOL","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",325789,325789,3257890,10
 2011,11,2011-11-01,"CHACMOOL","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",93904,93904,751232,8
-2011,11,2011-11-01,"CLIPEPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",406912,406912,3255296,8
-2011,11,2011-11-01,"CLIPEPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",12450,12450,99600,8
-2011,11,2011-11-01,"CLIPEPERTON","Bonito","Bonito ent. fco.","Euthynnus alletteratus",6650,6650,53200,8
+2011,11,2011-11-01,"CLIPPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",406912,406912,3255296,8
+2011,11,2011-11-01,"CLIPPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",12450,12450,99600,8
+2011,11,2011-11-01,"CLIPPERTON","Bonito","Bonito ent. fco.","Euthynnus alletteratus",6650,6650,53200,8
 2011,11,2011-11-01,"CONSTANZA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",83000,83000,830000,10
 2011,11,2011-11-01,"CORSARIO","Atun","Atun aleta amarilla desv. fco.","Thunnus albacares",112,123.2,1008,9
 2011,11,2011-11-01,"DONAESTHELA","Atun","Atun ent. fco.","Thunnus spp",100,100,1000,10
@@ -12978,12 +12978,12 @@
 2011,11,2011-11-01,"ISLADELAPIEDRA","Bonito","Bonito ent. fco.","Euthynnus alletteratus",261627,261627,2093016,8
 2011,11,2011-11-01,"LAVICTORIA","Atun","Atun aleta amarilla  ent. fco. ( avisos","Thunnus albacares",85000,85000,1020000,12
 2011,11,2011-11-01,"LAVICTORIA","Barrilete","Barrilete negro ent. fco.","Katsuwonus pelamis",37000,37000,222000,6
+2011,11,2011-11-01,"MAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",595000,595000,5950000,10
+2011,11,2011-11-01,"MAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",20000,20000,160000,8
 2011,11,2011-11-01,"MACEL","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",56844,56844,397908,7
 2011,11,2011-11-01,"MACEL","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",2548,2548,15288,6
 2011,11,2011-11-01,"MACEL","Barrilete","Barrilete negro ent. fco.","Katsuwonus pelamis",46939,46939,281634,6
 2011,11,2011-11-01,"MACEL","Bonito","Bonito ent. fco.","Euthynnus alletteratus",90977,90977,636839,7
-2011,11,2011-11-01,"MARIAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",595000,595000,5950000,10
-2011,11,2011-11-01,"MARIAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",20000,20000,160000,8
 2011,11,2011-11-01,"MARIABEATRIZ","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",268443,268443,3758202,14
 2011,11,2011-11-01,"MARIABEATRIZ","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",30098,30098,270882,9
 2011,11,2011-11-01,"MARIABEATRIZ","Barrilete","Barrilete negro ent. fco.","Katsuwonus pelamis",4949,4949,29694,6
@@ -13280,8 +13280,8 @@
 2012,3,2012-03-01,"CARTADEDECES","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",233971,233971,1871768,8
 2012,3,2012-03-01,"CARTADEDECES","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",46789,46789,280734,6
 2012,3,2012-03-01,"CENTAURODELNORTE","Bonito","Bonito desv. fco.","Euthynnus alletteratus",400,440,400,1
-2012,3,2012-03-01,"CLIPEPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",382735,382735,3061880,8
-2012,3,2012-03-01,"CLIPEPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",916,916,7328,8
+2012,3,2012-03-01,"CLIPPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",382735,382735,3061880,8
+2012,3,2012-03-01,"CLIPPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",916,916,7328,8
 2012,3,2012-03-01,"CONSTANZA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",344523,344523,3445230,10
 2012,3,2012-03-01,"CORSARIO","Atun","Atun aleta amarilla desv. fco.","Thunnus albacares",118,129.8,1180,10
 2012,3,2012-03-01,"CRUSTACEOSI","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",1110,1110,5550,5
@@ -13363,9 +13363,9 @@
 2012,3,2012-03-01,"LAVICTORIA","Barrilete","Barrilete negro ent. fco.","Katsuwonus pelamis",25000,25000,150000,6
 2012,3,2012-03-01,"LUCINAELENA","Atun","Atun aleta amarilla desv. fco.","Thunnus albacares",30,33,720,24
 2012,3,2012-03-01,"LUCINAELENA","Bonito","Bonito desv. fco.","Euthynnus alletteratus",300,330,3600,12
+2012,3,2012-03-01,"MAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",193560,193560,1548480,8
 2012,3,2012-03-01,"MACEL","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",383028,383028,4979364,13
 2012,3,2012-03-01,"MADEIRA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",412780,412780,4127800,10
-2012,3,2012-03-01,"MARIAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",193560,193560,1548480,8
 2012,3,2012-03-01,"MARIABEATRIZ","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",428985,428985,6005790,14
 2012,3,2012-03-01,"MARIABEATRIZ","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",16790,16790,151110,9
 2012,3,2012-03-01,"MARIAELISA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",300,300,3000,10
@@ -13596,12 +13596,12 @@
 2012,5,2012-05-01,"LAVICTORIA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",210000,210000,2520000,12
 2012,5,2012-05-01,"LAVICTORIA","Barrilete","Barrilete negro ent. fco.","Katsuwonus pelamis",90000,90000,540000,6
 2012,5,2012-05-01,"LUCINAELENA","Bonito","Bonito desv. fco.","Euthynnus alletteratus",220,242,2640,12
+2012,5,2012-05-01,"MAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",56982,56982,569820,10
 2012,5,2012-05-01,"MACEL","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",186605,186605,2425865,13
 2012,5,2012-05-01,"MACEL","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",25061,25061,225549,9
 2012,5,2012-05-01,"MADEIRA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",513932,513932,5139320,10
 2012,5,2012-05-01,"MADEIRA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",88082,88082,440410,5
 2012,5,2012-05-01,"MADEIRA","Barrilete","Barrilete negro ent. fco.","Katsuwonus pelamis",17635,17635,176350,10
-2012,5,2012-05-01,"MARIAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",56982,56982,569820,10
 2012,5,2012-05-01,"MARIABEATRIZ","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",392238,392238,5099094,13
 2012,5,2012-05-01,"MARIABEATRIZ","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",49940,49940,449460,9
 2012,5,2012-05-01,"MARIAROSANA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",16710,16710,167100,10
@@ -13637,8 +13637,8 @@
 2012,6,2012-06-01,"BUENAVENTURA1","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",129951,129951,1039608,8
 2012,6,2012-06-01,"CARTADEDECES","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",512350,512350,4098800,8
 2012,6,2012-06-01,"CARTADEDECES","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",46204,46204,277224,6
-2012,6,2012-06-01,"CLIPEPERTON","Atun","Atun ojo grande ent. fco.","Thunnus obesus",3063,3063,24504,8
-2012,6,2012-06-01,"CLIPEPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",137050,137050,1096400,8
+2012,6,2012-06-01,"CLIPPERTON","Atun","Atun ojo grande ent. fco.","Thunnus obesus",3063,3063,24504,8
+2012,6,2012-06-01,"CLIPPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",137050,137050,1096400,8
 2012,6,2012-06-01,"CONSTANZA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",545263,545263,5452630,10
 2012,6,2012-06-01,"CONSTANZA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",79881,79881,639048,8
 2012,6,2012-06-01,"ELDORADO","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",112869,112869,902952,8
@@ -13711,7 +13711,7 @@
 2012,6,2012-06-01,"ISLADELAPIEDRA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",92413,92413,739304,8
 2012,6,2012-06-01,"LAVICTORIA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",77000,77000,924000,12
 2012,6,2012-06-01,"LAVICTORIA","Barrilete","Barrilete negro ent. fco.","Katsuwonus pelamis",35000,35000,210000,6
-2012,6,2012-06-01,"MARIAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",8636,8636,69088,8
+2012,6,2012-06-01,"MAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",8636,8636,69088,8
 2012,6,2012-06-01,"MARIAFERNANDA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",32180,32180,257440,8
 2012,6,2012-06-01,"MAZATUN","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",555553,555553,4444424,8
 2012,6,2012-06-01,"MAZATUN","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",103703,103703,829624,8
@@ -13826,7 +13826,7 @@
 2012,8,2012-08-01,"AZTECA9","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",128509,128509,1028072,8
 2012,8,2012-08-01,"AZTECA9","Bonito","Bonito ent. fco.","Euthynnus alletteratus",57987,57987,463896,8
 2012,8,2012-08-01,"BONNIE","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",650415,650415,5203320,8
-2012,8,2012-08-01,"CLIPEPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",91973,91973,735784,8
+2012,8,2012-08-01,"CLIPPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",91973,91973,735784,8
 2012,8,2012-08-01,"EMBARCACIONGENERICA","Atun","Albacora ent. fca.","Thunnus alalunga",80,80,1280,16
 2012,8,2012-08-01,"EMBARCACIONGENERICA","Atun","Albacora ent. fca.","Thunnus alalunga",80,80,1360,17
 2012,8,2012-08-01,"EMBARCACIONGENERICA","Atun","Albacora ent. fca.","Thunnus alalunga",146,146,2774,19
@@ -14118,13 +14118,13 @@
 2012,10,2012-10-01,"FRANZ","Atun","Atun aleta azul ent. fco.","Thunnus orientalis",40790,40790,326320,8
 2012,10,2012-10-01,"FRANZ","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",211003,211003,1688024,8
 2012,10,2012-10-01,"FRANZ","Bonito","Bonito ent. fco.","Euthynnus alletteratus",211084,211084,1688672,8
+2012,10,2012-10-01,"MAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",21699,21699,216990,10
 2012,10,2012-10-01,"MACEL","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",97158,97158,1263054,13
 2012,10,2012-10-01,"MACEL","Atun","Atun aleta azul ent. fco.","Thunnus orientalis",66657,66657,866541,13
 2012,10,2012-10-01,"MACEL","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",796,796,7164,9
 2012,10,2012-10-01,"MACEL","Bonito","Bonito ent. fco.","Euthynnus alletteratus",331049,331049,2317343,7
 2012,10,2012-10-01,"MARANATHA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",16000,16000,560000,35
 2012,10,2012-10-01,"MARANATHA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",48000,48000,864000,18
-2012,10,2012-10-01,"MARIAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",21699,21699,216990,10
 2012,10,2012-10-01,"MARIABEATRIZ","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",98897,98897,988970,10
 2012,10,2012-10-01,"MARIABEATRIZ","Atun","Atun aleta azul ent. fco.","Thunnus orientalis",22694,22694,226940,10
 2012,10,2012-10-01,"MARIABEATRIZ","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",33302,33302,333020,10
@@ -14248,6 +14248,9 @@
 2012,11,2012-11-01,"ISLADELAPIEDRA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",44887,44887,359096,8
 2012,11,2012-11-01,"JAGUAR","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",212515,212515,2125150,10
 2012,11,2012-11-01,"JAGUAR","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",110882,110882,887056,8
+2012,11,2012-11-01,"MAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",331235,331235,3312350,10
+2012,11,2012-11-01,"MAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",43359,43359,346872,8
+2012,11,2012-11-01,"MAANTONIETA","Bonito","Bonito ent. fco.","Euthynnus alletteratus",48715,48715,389720,8
 2012,11,2012-11-01,"MACEL","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",93536,93536,1215968,13
 2012,11,2012-11-01,"MACEL","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",4609,4609,46090,10
 2012,11,2012-11-01,"MACEL","Barrilete","Barrilete negro ent. fco.","Katsuwonus pelamis",770,770,4620,6
@@ -14255,9 +14258,6 @@
 2012,11,2012-11-01,"MADEIRA","Barrilete","Barrilete negro ent. fco.","Katsuwonus pelamis",20959,20959,62877,3
 2012,11,2012-11-01,"MARANATHA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",44000,44000,528000,12
 2012,11,2012-11-01,"MARANATHA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",9000,9000,108000,12
-2012,11,2012-11-01,"MARIAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",331235,331235,3312350,10
-2012,11,2012-11-01,"MARIAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",43359,43359,346872,8
-2012,11,2012-11-01,"MARIAANTONIETA","Bonito","Bonito ent. fco.","Euthynnus alletteratus",48715,48715,389720,8
 2012,11,2012-11-01,"MARIAFERNANDA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",451187,451187,4511870,10
 2012,11,2012-11-01,"MARIAFERNANDA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",66383,66383,531064,8
 2012,11,2012-11-01,"MARIALUISA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",369152,369152,3691520,10
@@ -14288,8 +14288,8 @@
 2012,12,2012-12-01,"AZTECA5","Barrilete","Barrilete negro ent. fco.","Katsuwonus pelamis",91663,91663,733304,8
 2012,12,2012-12-01,"AZTECA8","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",167057,167057,1336456,8
 2012,12,2012-12-01,"AZTECA8","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",53588,53588,428704,8
-2012,12,2012-12-01,"CLIPEPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",555321,555321,4442568,8
-2012,12,2012-12-01,"CLIPEPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",291121,291121,2328968,8
+2012,12,2012-12-01,"CLIPPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",555321,555321,4442568,8
+2012,12,2012-12-01,"CLIPPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",291121,291121,2328968,8
 2012,12,2012-12-01,"DAMASTA","Atun","Atun aleta amarilla desv, desc fco","Thunnus albacares",260,312,5980,23
 2012,12,2012-12-01,"DONNICO","Atun","Atun aleta amarilla desv. fco.","Thunnus albacares",280,308,9800,35
 2012,12,2012-12-01,"EMBARCACIONGENERICA","Atun","Albacora ent. fca.","Thunnus alalunga",24,24,288,12
@@ -14714,8 +14714,8 @@
 2013,4,2013-04-01,"AZTECA8","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",65640,65640,525120,8
 2013,4,2013-04-01,"AZTECA9","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",268460,268460,2147680,8
 2013,4,2013-04-01,"AZTECA9","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",304399,304399,2435192,8
-2013,4,2013-04-01,"CLIPEPERTON","Atun","Atun ojo grande ent. fco.","Thunnus obesus",3273,3273,26184,8
-2013,4,2013-04-01,"CLIPEPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",79932,79932,639456,8
+2013,4,2013-04-01,"CLIPPERTON","Atun","Atun ojo grande ent. fco.","Thunnus obesus",3273,3273,26184,8
+2013,4,2013-04-01,"CLIPPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",79932,79932,639456,8
 2013,4,2013-04-01,"CORSARIO","Atun","Atun aleta amarilla desv. fco.","Thunnus albacares",125,137.5,1250,10
 2013,4,2013-04-01,"DAMASTA","Atun","Atun aleta amarilla desv. fco.","Thunnus albacares",150,165,3600,24
 2013,4,2013-04-01,"DAMASTA","Bonito","Bonito desv. y desc. fco.","Euthynnus alletteratus",200,250,2600,13
@@ -14923,9 +14923,9 @@
 2013,5,2013-05-01,"HANNA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",2675,2675,21400,8
 2013,5,2013-05-01,"JAGUAR","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",397800,397800,3978000,10
 2013,5,2013-05-01,"JAGUAR","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",15583,15583,124664,8
+2013,5,2013-05-01,"MAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",134724,134724,1077792,8
 2013,5,2013-05-01,"MACEL","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",137445,137445,1924230,14
 2013,5,2013-05-01,"MACEL","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",4620,4620,55440,12
-2013,5,2013-05-01,"MARIAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",134724,134724,1077792,8
 2013,5,2013-05-01,"MARIABEATRIZ","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",311186,311186,4356604,14
 2013,5,2013-05-01,"MARIABEATRIZ","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",217734,217734,2177340,10
 2013,5,2013-05-01,"MARIALUISA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",521187,521187,5211870,10
@@ -15041,7 +15041,7 @@
 2013,7,2013-07-01,"AZTECA9","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",4119,4119,32952,8
 2013,7,2013-07-01,"CARTADEDECES","Atun","Atun aleta amarilla  ent. fco. ( avisos","Thunnus albacares",350239,350239,2801912,8
 2013,7,2013-07-01,"CARTADEDECES","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",28443,28443,170658,6
-2013,7,2013-07-01,"CLIPEPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",103786,103786,830288,8
+2013,7,2013-07-01,"CLIPPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",103786,103786,830288,8
 2013,7,2013-07-01,"CONQUISTA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",664945,664945,5319560,8
 2013,7,2013-07-01,"CONQUISTA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",46562,46562,279372,6
 2013,7,2013-07-01,"ELDORADO","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",35463,35463,283704,8
@@ -15121,10 +15121,10 @@
 2013,7,2013-07-01,"EMBARCACIONGENERICA","Bonito","Bonito ent. fco.","Euthynnus alletteratus",3000,3000,24000,8
 2013,7,2013-07-01,"GABIERO","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",173269,173269,1386152,8
 2013,7,2013-07-01,"HANNA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",112633,112633,901064,8
+2013,7,2013-07-01,"MAANTONIETA","Atun","Atun aleta azul ent. fco.","Thunnus orientalis",40000,40000,480000,12
+2013,7,2013-07-01,"MAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",164713,164713,1645891,10
 2013,7,2013-07-01,"MARANATHA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",96500,96500,1158000,12
 2013,7,2013-07-01,"MARANATHA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",2000,2000,24000,12
-2013,7,2013-07-01,"MARIAANTONIETA","Atun","Atun aleta azul ent. fco.","Thunnus orientalis",40000,40000,480000,12
-2013,7,2013-07-01,"MARIAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",164713,164713,1645891,10
 2013,7,2013-07-01,"MARIALUISA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",241016,241016,1928128,8
 2013,7,2013-07-01,"MAZCU1","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",11345,11345,56725,5
 2013,7,2013-07-01,"MAZCU1","Barrilete","Barrilete negro ent. fco.","Katsuwonus pelamis",160754,160754,482262,3
@@ -15269,9 +15269,9 @@
 2013,9,2013-09-01,"AZTECA9","Bonito","Bonito ent. fco.","Euthynnus alletteratus",142366,142366,1138928,8
 2013,9,2013-09-01,"CARTADEDECES","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",347716,347716,4868024,14
 2013,9,2013-09-01,"CARTADEDECES","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",35131,35131,386441,11
-2013,9,2013-09-01,"CLIPEPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",36054,36054,288432,8
-2013,9,2013-09-01,"CLIPEPERTON","Barrilete","Barrilete negro ent. fco.","Katsuwonus pelamis",70159,70159,561272,8
-2013,9,2013-09-01,"CLIPEPERTON","Bonito","Bonito ent. fco.","Euthynnus alletteratus",49579,49579,396632,8
+2013,9,2013-09-01,"CLIPPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",36054,36054,288432,8
+2013,9,2013-09-01,"CLIPPERTON","Barrilete","Barrilete negro ent. fco.","Katsuwonus pelamis",70159,70159,561272,8
+2013,9,2013-09-01,"CLIPPERTON","Bonito","Bonito ent. fco.","Euthynnus alletteratus",49579,49579,396632,8
 2013,9,2013-09-01,"DAMASTA","Atun","Atun aleta amarilla desv, desc fco","Thunnus albacares",60,72,1560,26
 2013,9,2013-09-01,"DONNICO","Bonito","Bonito desv. fco.","Euthynnus alletteratus",220,242,220,1
 2013,9,2013-09-01,"ELDORADO","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",60049,60049,480392,8
@@ -15362,6 +15362,9 @@
 2013,9,2013-09-01,"JAGUAR","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",425708,425708,3405664,8
 2013,9,2013-09-01,"JAGUAR","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",144663,144663,867978,6
 2013,9,2013-09-01,"LUCINAELENA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",15,15,195,13
+2013,9,2013-09-01,"MAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",277306,277306,1941142,7
+2013,9,2013-09-01,"MAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",235516,235516,1177580,5
+2013,9,2013-09-01,"MAANTONIETA","Bonito","Bonito ent. fco.","Euthynnus alletteratus",4165,4165,8330,2
 2013,9,2013-09-01,"MACEL","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",64652,64652,969780,15
 2013,9,2013-09-01,"MACEL","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",69481,69481,903253,13
 2013,9,2013-09-01,"MACEL","Bonito","Bonito ent. fco.","Euthynnus alletteratus",44000,44000,440000,10
@@ -15370,9 +15373,6 @@
 2013,9,2013-09-01,"MADEIRA","Bonito","Bonito ent. fco.","Euthynnus alletteratus",84024,84024,168048,2
 2013,9,2013-09-01,"MARANATHA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",16000,16000,288000,18
 2013,9,2013-09-01,"MARANATHA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",5400,5400,86400,16
-2013,9,2013-09-01,"MARIAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",277306,277306,1941142,7
-2013,9,2013-09-01,"MARIAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",235516,235516,1177580,5
-2013,9,2013-09-01,"MARIAANTONIETA","Bonito","Bonito ent. fco.","Euthynnus alletteratus",4165,4165,8330,2
 2013,9,2013-09-01,"MARIABEATRIZ","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",133852,133852,2007780,15
 2013,9,2013-09-01,"MARIABEATRIZ","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",131627,131627,1711151,13
 2013,9,2013-09-01,"MARIABEATRIZ","Bonito","Bonito ent. fco.","Euthynnus alletteratus",59608,59608,596080,10
@@ -15620,14 +15620,14 @@
 2013,11,2013-11-01,"GUERRERODELMAR","Atun","Atun aleta amarilla desv, desc fco","Thunnus albacares",452,542.4,6328,14
 2013,11,2013-11-01,"GUERRERODELMAR","Bonito","Bonito desv. fco.","Euthynnus alletteratus",180,198,2340,13
 2013,11,2013-11-01,"JAGUAR","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",468532,468532,4685320,10
+2013,11,2013-11-01,"MAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",469427,469427,3285989,7
+2013,11,2013-11-01,"MAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",4384,4384,21920,5
+2013,11,2013-11-01,"MAANTONIETA","Barrilete","Barrilete negro ent. fco.","Katsuwonus pelamis",46747,46747,186988,4
 2013,11,2013-11-01,"MACEL","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",151797,151797,2276955,15
 2013,11,2013-11-01,"MACEL","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",2291,2291,29783,13
 2013,11,2013-11-01,"MADEIRA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",501909,501909,3513363,7
 2013,11,2013-11-01,"MADEIRA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",9741,9741,48705,5
 2013,11,2013-11-01,"MADEIRA","Barrilete","Barrilete negro ent. fco.","Katsuwonus pelamis",44076,44076,176304,4
-2013,11,2013-11-01,"MARIAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",469427,469427,3285989,7
-2013,11,2013-11-01,"MARIAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",4384,4384,21920,5
-2013,11,2013-11-01,"MARIAANTONIETA","Barrilete","Barrilete negro ent. fco.","Katsuwonus pelamis",46747,46747,186988,4
 2013,11,2013-11-01,"MARIAFERNANDA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",379272,379272,3792720,10
 2013,11,2013-11-01,"MARIAFERNANDA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",3198,3198,25584,8
 2013,11,2013-11-01,"MARIAISABEL1","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",192450,192450,2886750,15
@@ -15661,9 +15661,9 @@
 2013,12,2013-12-01,"AZTECA1","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",463382,463382,3707056,8
 2013,12,2013-12-01,"AZTECA1","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",6785,6785,54280,8
 2013,12,2013-12-01,"AZTECA10","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",85064,85064,680512,8
-2013,12,2013-12-01,"CLIPEPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",447516,447516,3580128,8
-2013,12,2013-12-01,"CLIPEPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",43772,43772,350176,8
-2013,12,2013-12-01,"CLIPEPERTON","Barrilete","Barrilete negro ent. fco.","Katsuwonus pelamis",3770,3770,30160,8
+2013,12,2013-12-01,"CLIPPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",447516,447516,3580128,8
+2013,12,2013-12-01,"CLIPPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",43772,43772,350176,8
+2013,12,2013-12-01,"CLIPPERTON","Barrilete","Barrilete negro ent. fco.","Katsuwonus pelamis",3770,3770,30160,8
 2013,12,2013-12-01,"DAMASTA","Atun","Atun aleta amarilla desv. fco.","Thunnus albacares",100,110,2600,26
 2013,12,2013-12-01,"DAMASTA","Bonito","Bonito desv. fco.","Euthynnus alletteratus",410,451,5330,13
 2013,12,2013-12-01,"DONNICO","Atun","Atun aleta amarilla desv. fco.","Thunnus albacares",40,44,1040,26
@@ -15820,8 +15820,8 @@
 2014,2,2014-02-01,"ATUN7","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",23657,23657,118285,5
 2014,2,2014-02-01,"AZTECA6","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",366441,366441,2931528,8
 2014,2,2014-02-01,"AZTECA6","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",8371,8371,66968,8
-2014,2,2014-02-01,"CLIPEPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",434207,434207,3473656,8
-2014,2,2014-02-01,"CLIPEPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",5469,5469,43752,8
+2014,2,2014-02-01,"CLIPPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",434207,434207,3473656,8
+2014,2,2014-02-01,"CLIPPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",5469,5469,43752,8
 2014,2,2014-02-01,"EDUARDO1","Atun","Atun aleta amarilla desv, desc fco","Thunnus albacares",35,42,630,18
 2014,2,2014-02-01,"EMBARCACIONGENERICA","Atun","Albacora ent. fca.","Thunnus alalunga",25,25,375,15
 2014,2,2014-02-01,"EMBARCACIONGENERICA","Atun","Albacora ent. fca.","Thunnus alalunga",53,53,901,17
@@ -16018,8 +16018,8 @@
 2014,3,2014-03-01,"HANNA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",13506,13506,108048,8
 2014,3,2014-03-01,"JAGUAR","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",3207,3207,32070,10
 2014,3,2014-03-01,"JESUSELPIRATA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",67,67,1005,15
+2014,3,2014-03-01,"MAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",120054,120054,480216,4
 2014,3,2014-03-01,"MACEL","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",9575,9575,143625,15
-2014,3,2014-03-01,"MARIAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",120054,120054,480216,4
 2014,3,2014-03-01,"MARIABEATRIZ","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",11007,11007,143091,13
 2014,3,2014-03-01,"MARIAFERNANDA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",48024,48024,384192,8
 2014,3,2014-03-01,"MARIAROSANA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",1819,1819,10914,6
@@ -16054,8 +16054,8 @@
 2014,4,2014-04-01,"AZTECA9","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",580288,580288,4642304,8
 2014,4,2014-04-01,"AZTECA9","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",24300,24300,194400,8
 2014,4,2014-04-01,"BONNIE","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",39901,39901,239406,6
-2014,4,2014-04-01,"CLIPEPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",73037,73037,584296,8
-2014,4,2014-04-01,"CLIPEPERTON","Barrilete","Barrilete negro ent. fco.","Katsuwonus pelamis",6670,6670,53360,8
+2014,4,2014-04-01,"CLIPPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",73037,73037,584296,8
+2014,4,2014-04-01,"CLIPPERTON","Barrilete","Barrilete negro ent. fco.","Katsuwonus pelamis",6670,6670,53360,8
 2014,4,2014-04-01,"CONSTANZA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",23424,23424,166896,7
 2014,4,2014-04-01,"DONADELFINA6","Atun","Atun ent. fco.","Thunnus spp",63,63,1071,17
 2014,4,2014-04-01,"DONADELFINAM2","Atun","Atun ent. fco.","Thunnus spp",338,338,5408,16
@@ -16136,9 +16136,9 @@
 2014,4,2014-04-01,"GORILA1","Atun","Atun ent. fco.","Thunnus spp",1160,1160,11600,10
 2014,4,2014-04-01,"ISLADELAPIEDRA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",148287,148287,1186296,8
 2014,4,2014-04-01,"JAVIERGALDINO","Atun","Atun ent. fco.","Thunnus spp",240,240,2400,10
+2014,4,2014-04-01,"MAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",8522,8522,25566,3
 2014,4,2014-04-01,"MADEIRA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",586513,586513,2932565,5
 2014,4,2014-04-01,"MADEIRA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",3610,3610,7220,2
-2014,4,2014-04-01,"MARIAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",8522,8522,25566,3
 2014,4,2014-04-01,"MARIAFERNANDA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",137785,137785,1102280,8
 2014,4,2014-04-01,"MARIAISABEL1","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",180911,180911,3075487,17
 2014,4,2014-04-01,"MARIAISABEL1","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",771,771,11565,15
@@ -16273,8 +16273,8 @@
 2014,6,2014-06-01,"AZTECA8","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",119107,119107,952856,8
 2014,6,2014-06-01,"AZTECA9","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",513545,513545,4108360,8
 2014,6,2014-06-01,"AZTECA9","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",713,713,5704,8
-2014,6,2014-06-01,"CLIPEPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",6476,6476,51808,8
-2014,6,2014-06-01,"CLIPEPERTON","Barrilete","Barrilete negro ent. fco.","Katsuwonus pelamis",38,38,304,8
+2014,6,2014-06-01,"CLIPPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",6476,6476,51808,8
+2014,6,2014-06-01,"CLIPPERTON","Barrilete","Barrilete negro ent. fco.","Katsuwonus pelamis",38,38,304,8
 2014,6,2014-06-01,"ELDORADO","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",61350,61350,490800,8
 2014,6,2014-06-01,"EMBARCACIONGENERICA","Atun","Albacora ent. fca.","Thunnus alalunga",23,23,575,25
 2014,6,2014-06-01,"EMBARCACIONGENERICA","Atun","Albacora ent. fca.","Thunnus alalunga",130,130,4550,35
@@ -16525,9 +16525,9 @@
 2014,8,2014-08-01,"CARTADEDECES","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",531187,531187,5311870,10
 2014,8,2014-08-01,"CARTADEDECES","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",45569,45569,364552,8
 2014,8,2014-08-01,"CHACMOOL","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",66074,66074,685740,10
-2014,8,2014-08-01,"CLIPEPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",672124,672124,5376992,8
-2014,8,2014-08-01,"CLIPEPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",21299,21299,170392,8
-2014,8,2014-08-01,"CLIPEPERTON","Barrilete","Barrilete negro ent. fco.","Katsuwonus pelamis",1243,1243,9944,8
+2014,8,2014-08-01,"CLIPPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",672124,672124,5376992,8
+2014,8,2014-08-01,"CLIPPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",21299,21299,170392,8
+2014,8,2014-08-01,"CLIPPERTON","Barrilete","Barrilete negro ent. fco.","Katsuwonus pelamis",1243,1243,9944,8
 2014,8,2014-08-01,"CRUSTACEOSI","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",280,280,3360,12
 2014,8,2014-08-01,"DONAESTHELA","Atun","Atun ent. fco.","Thunnus spp",20,20,400,20
 2014,8,2014-08-01,"ELDORADO","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",459948,459948,3679584,8
@@ -16767,13 +16767,13 @@
 2014,9,2014-09-01,"JAGUAR","Atun","Atun aleta amarilla  ent. fco. ( avisos","Thunnus albacares",513558,513558,4108464,8
 2014,9,2014-09-01,"JAGUAR","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",74823,74823,448938,6
 2014,9,2014-09-01,"LUCINAELENA","Atun","Atun aleta amarilla desv. fco.","Thunnus albacares",63,69.3,2520,40
+2014,9,2014-09-01,"MAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",43523,43523,130569,3
 2014,9,2014-09-01,"MACEL","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",170583,170583,3070494,18
 2014,9,2014-09-01,"MACEL","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",9,9,144,16
 2014,9,2014-09-01,"MACEL","Bonito","Bonito ent. fco.","Euthynnus alletteratus",576,576,8640,15
 2014,9,2014-09-01,"MADEIRA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",97417,97417,681919,7
 2014,9,2014-09-01,"MADEIRA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",3310,3310,16550,5
 2014,9,2014-09-01,"MADEIRA","Bonito","Bonito ent. fco.","Euthynnus alletteratus",63911,63911,127822,2
-2014,9,2014-09-01,"MARIAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",43523,43523,130569,3
 2014,9,2014-09-01,"MARIABEATRIZ","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",104051,104051,1872918,18
 2014,9,2014-09-01,"MARIABEATRIZ","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",857,857,13712,16
 2014,9,2014-09-01,"MARIABEATRIZ","Bonito","Bonito ent. fco.","Euthynnus alletteratus",157904,157904,2368560,15
@@ -16940,7 +16940,7 @@
 2014,11,2014-11-01,"CAMILA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",18285,18285,146280,8
 2014,11,2014-11-01,"CAMILA","Barrilete","Barrilete negro ent. fco.","Katsuwonus pelamis",1157,1157,9256,8
 2014,11,2014-11-01,"CARTADEDECES","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",4e+05,4e+05,3200000,8
-2014,11,2014-11-01,"CLIPEPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",6573,6573,52584,8
+2014,11,2014-11-01,"CLIPPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",6573,6573,52584,8
 2014,11,2014-11-01,"CONQUISTA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",380456,380456,3043648,8
 2014,11,2014-11-01,"CONQUISTA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",496,496,2976,6
 2014,11,2014-11-01,"CONSTANZA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",183091,183091,1281637,7
@@ -17067,13 +17067,13 @@
 2014,11,2014-11-01,"JAGUAR","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",10000,10000,60000,6
 2014,11,2014-11-01,"KARLAMELINA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",248,248,3720,15
 2014,11,2014-11-01,"LOBOS5","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",208,208,3120,15
+2014,11,2014-11-01,"MAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",19505,19505,58515,3
+2014,11,2014-11-01,"MAANTONIETA","Barrilete","Barrilete negro ent. fco.","Katsuwonus pelamis",1436,1436,1436,1
+2014,11,2014-11-01,"MAANTONIETA","Bonito","Bonito ent. fco.","Euthynnus alletteratus",19899,19899,39798,2
 2014,11,2014-11-01,"MACEL","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",230144,230144,3682304,16
 2014,11,2014-11-01,"MACEL","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",404,404,5656,14
 2014,11,2014-11-01,"MADEIRA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",205265,205265,1436855,7
 2014,11,2014-11-01,"MARANATHA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",6600,6600,191400,29
-2014,11,2014-11-01,"MARIAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",19505,19505,58515,3
-2014,11,2014-11-01,"MARIAANTONIETA","Barrilete","Barrilete negro ent. fco.","Katsuwonus pelamis",1436,1436,1436,1
-2014,11,2014-11-01,"MARIAANTONIETA","Bonito","Bonito ent. fco.","Euthynnus alletteratus",19899,19899,39798,2
 2014,11,2014-11-01,"MARIABEATRIZ","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",256112,256112,4610016,18
 2014,11,2014-11-01,"MARIABEATRIZ","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",418,418,4180,10
 2014,11,2014-11-01,"MARIAFERNANDA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",425380,425380,4253800,10
@@ -17241,7 +17241,7 @@
 2015,2,2015-02-01,"EMBARCACIONGENERICA","Bonito","Bonito ent. fco.","Euthynnus alletteratus",2197,2197,13822,6
 2015,2,2015-02-01,"EUROPESCA2","Atun","Atun aleta amarilla desv. fco.","Thunnus albacares",1600,1760,24000,15
 2015,2,2015-02-01,"LUCINAELENA","Atun","Atun aleta amarilla desv. fco.","Thunnus albacares",1750,1925,70000,40
-2015,2,2015-02-01,"MARIAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",39208,39208,78416,2
+2015,2,2015-02-01,"MAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",39208,39208,78416,2
 2015,2,2015-02-01,"MARIABEATRIZ","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",355013,355013,5325195,15
 2015,2,2015-02-01,"MARIABEATRIZ","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",1282,1282,15384,12
 2015,2,2015-02-01,"MAZCU1","Barrilete","Barrilete negro ent. fco.","Katsuwonus pelamis",205942,205942,1029710,5
@@ -17276,9 +17276,9 @@
 2015,3,2015-03-01,"AZTECA9","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",615,615,4920,8
 2015,3,2015-03-01,"BONNIE","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",19910,19910,119460,6
 2015,3,2015-03-01,"CAMILA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",207250,207250,1658000,8
-2015,3,2015-03-01,"CLIPEPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",560314,560314,4482512,8
-2015,3,2015-03-01,"CLIPEPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",70194,70194,561552,8
-2015,3,2015-03-01,"CLIPEPERTON","Barrilete","Barrilete negro ent. fco.","Katsuwonus pelamis",6441,6441,51528,8
+2015,3,2015-03-01,"CLIPPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",560314,560314,4482512,8
+2015,3,2015-03-01,"CLIPPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",70194,70194,561552,8
+2015,3,2015-03-01,"CLIPPERTON","Barrilete","Barrilete negro ent. fco.","Katsuwonus pelamis",6441,6441,51528,8
 2015,3,2015-03-01,"CONQUISTA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",73560,73560,441360,6
 2015,3,2015-03-01,"CONSTANZA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",233009,233009,1631063,7
 2015,3,2015-03-01,"CONSTANZA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",31828,31828,95484,3
@@ -17393,10 +17393,10 @@
 2015,4,2015-04-01,"ISLADELAPIEDRA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",489039,489039,4401351,9
 2015,4,2015-04-01,"ISLADELAPIEDRA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",76855,76855,230565,3
 2015,4,2015-04-01,"LUCINAELENA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",180,180,2340,13
+2015,4,2015-04-01,"MAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",377435,377435,3396915,9
+2015,4,2015-04-01,"MAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",30492,30492,91476,3
 2015,4,2015-04-01,"MACEL","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",314179,314179,5026864,16
 2015,4,2015-04-01,"MACEL","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",22641,22641,316974,14
-2015,4,2015-04-01,"MARIAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",377435,377435,3396915,9
-2015,4,2015-04-01,"MARIAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",30492,30492,91476,3
 2015,4,2015-04-01,"MARIAISABEL1","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",6884,6884,103260,15
 2015,4,2015-04-01,"MARIAISABEL1","Barrilete","Barrilete negro ent. fco.","Katsuwonus pelamis",53991,53991,539910,10
 2015,4,2015-04-01,"MAZCU1","Barrilete","Barrilete negro ent. fco.","Katsuwonus pelamis",423459,423459,1270377,3
@@ -17427,9 +17427,9 @@
 2015,5,2015-05-01,"CAMILA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",70892,70892,567136,8
 2015,5,2015-05-01,"CHACMOOL","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",190122,190122,950610,5
 2015,5,2015-05-01,"CHACMOOL","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",11000,11000,33000,3
-2015,5,2015-05-01,"CLIPEPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",287977,287977,2303816,8
-2015,5,2015-05-01,"CLIPEPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",14104,14104,112832,8
-2015,5,2015-05-01,"CLIPEPERTON","Barrilete","Barrilete negro ent. fco.","Katsuwonus pelamis",2011,2011,16088,8
+2015,5,2015-05-01,"CLIPPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",287977,287977,2303816,8
+2015,5,2015-05-01,"CLIPPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",14104,14104,112832,8
+2015,5,2015-05-01,"CLIPPERTON","Barrilete","Barrilete negro ent. fco.","Katsuwonus pelamis",2011,2011,16088,8
 2015,5,2015-05-01,"CONQUISTA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",7790,7790,46740,6
 2015,5,2015-05-01,"CONQUISTADOR2","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",50,50,1000,20
 2015,5,2015-05-01,"CONSTANZA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",373678,373678,3363102,9
@@ -17464,12 +17464,12 @@
 2015,5,2015-05-01,"ISLADELAPIEDRA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",4613,4613,13839,3
 2015,5,2015-05-01,"JAGUAR","Atun","Atun aleta amarilla  ent. fco. ( avisos","Thunnus albacares",541051,541051,4328408,8
 2015,5,2015-05-01,"JAGUAR","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",24075,24075,144450,6
+2015,5,2015-05-01,"MAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",619587,619587,5576283,9
+2015,5,2015-05-01,"MAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",90,90,450,5
 2015,5,2015-05-01,"MACEL","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",266723,266723,4000845,15
 2015,5,2015-05-01,"MACEL","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",134,134,1608,12
 2015,5,2015-05-01,"MADEIRA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",517605,517605,3623235,7
 2015,5,2015-05-01,"MADEIRA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",5304,5304,15912,3
-2015,5,2015-05-01,"MARIAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",619587,619587,5576283,9
-2015,5,2015-05-01,"MARIAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",90,90,450,5
 2015,5,2015-05-01,"MARIABEATRIZ","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",192414,192414,2886210,15
 2015,5,2015-05-01,"MARIABEATRIZ","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",625,625,7500,12
 2015,5,2015-05-01,"MARIAFERNANDA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",137186,137186,1097488,8
@@ -17524,7 +17524,7 @@
 2015,6,2015-06-01,"GIJON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",35935,35935,287480,8
 2015,6,2015-06-01,"JAGUAR","Atun","Atun ent. fco.","Thunnus spp",466960,466960,3735680,8
 2015,6,2015-06-01,"JAGUAR","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",483,483,2898,6
-2015,6,2015-06-01,"MARIAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",554041,554041,4986369,9
+2015,6,2015-06-01,"MAANTONIETA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",554041,554041,4986369,9
 2015,6,2015-06-01,"MARIABEATRIZ","Atun","Atun aleta azul ent. fco.","Thunnus orientalis",4e+05,4e+05,6e+06,15
 2015,6,2015-06-01,"MARIAGUADALUPE","Atun","Atun aleta azul ent. fco.","Thunnus orientalis",239000,239000,3585000,15
 2015,6,2015-06-01,"MAZCU1","Barrilete","Barrilete negro ent. fco.","Katsuwonus pelamis",179414,179414,717656,4
@@ -17629,8 +17629,8 @@
 2015,8,2015-08-01,"CHACMOOL","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",177633,177633,1243431,7
 2015,8,2015-08-01,"CHACMOOL","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",46832,46832,234160,5
 2015,8,2015-08-01,"CHACMOOL","Barrilete","Barrilete negro ent. fco.","Katsuwonus pelamis",20986,20986,62958,3
-2015,8,2015-08-01,"CLIPEPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",388454,388454,3107632,8
-2015,8,2015-08-01,"CLIPEPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",7745,7745,61960,8
+2015,8,2015-08-01,"CLIPPERTON","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",388454,388454,3107632,8
+2015,8,2015-08-01,"CLIPPERTON","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",7745,7745,61960,8
 2015,8,2015-08-01,"CONQUISTA","Atun","Atun aleta amarilla  ent. fco. ( avisos","Thunnus albacares",352604,352604,2820832,8
 2015,8,2015-08-01,"CONQUISTA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",180165,180165,1080990,6
 2015,8,2015-08-01,"ELDORADO","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",352742,352742,2821936,8
@@ -17654,11 +17654,11 @@
 2015,8,2015-08-01,"EUROPESCA2","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",120,120,4800,40
 2015,8,2015-08-01,"GABIERO","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",216311,216311,2163110,10
 2015,8,2015-08-01,"GABIERO","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",108540,108540,868320,8
+2015,8,2015-08-01,"MAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",11966,11966,35898,3
 2015,8,2015-08-01,"MACEL","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",239545,239545,3832720,16
 2015,8,2015-08-01,"MACEL","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",15362,15362,215068,14
 2015,8,2015-08-01,"MACEL","Bonito","Bonito ent. fco.","Euthynnus alletteratus",11860,11860,142320,12
 2015,8,2015-08-01,"MANZANILLO","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",90012,90012,720096,8
-2015,8,2015-08-01,"MARIAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",11966,11966,35898,3
 2015,8,2015-08-01,"MARIABEATRIZ","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",175746,175746,2811936,16
 2015,8,2015-08-01,"MARIABEATRIZ","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",65672,65672,919408,14
 2015,8,2015-08-01,"MARIABEATRIZ","Bonito","Bonito ent. fco.","Euthynnus alletteratus",20166,20166,241992,12
@@ -17869,14 +17869,14 @@
 2015,11,2015-11-01,"JAGUAR","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",397477,397477,3179816,8
 2015,11,2015-11-01,"JAGUAR","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",55000,55000,330000,6
 2015,11,2015-11-01,"LUCINAELENA","Atun","Atun aleta amarilla desv. fco.","Thunnus albacares",138,151.8,4140,30
+2015,11,2015-11-01,"MAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",96396,96396,674772,7
+2015,11,2015-11-01,"MAANTONIETA","Barrilete","Barrilete negro ent. fco.","Katsuwonus pelamis",1114,1114,7798,7
 2015,11,2015-11-01,"MACEL","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",147335,147335,2357360,16
 2015,11,2015-11-01,"MACEL","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",128,128,1792,14
 2015,11,2015-11-01,"MADEIRA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",224940,224940,2249400,10
 2015,11,2015-11-01,"MADEIRA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",4179,4179,25074,6
 2015,11,2015-11-01,"MANZANILLO","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",255000,255000,2550000,10
 2015,11,2015-11-01,"MANZANILLO","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",665000,665000,5320000,8
-2015,11,2015-11-01,"MARIAANTONIETA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",96396,96396,674772,7
-2015,11,2015-11-01,"MARIAANTONIETA","Barrilete","Barrilete negro ent. fco.","Katsuwonus pelamis",1114,1114,7798,7
 2015,11,2015-11-01,"MARIABEATRIZ","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",241115,241115,3857840,16
 2015,11,2015-11-01,"MARIAFERNANDA","Atun","Atun aleta amarilla ent. fco.","Thunnus albacares",465101,465101,4651010,10
 2015,11,2015-11-01,"MARIAFERNANDA","Barrilete","Barrilete ent. fco.","Katsuwonus pelamis",120000,120000,960000,8

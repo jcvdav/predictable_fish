@@ -75,6 +75,12 @@ shipnames_norm <- future_map_chr(shipnames, normalize_shipname)
 shipname_dictionary <- tibble(NombreActivo = shipnames,
                               ShipnameNorm = shipnames_norm)
 
+# Manual modifications to names in the dictionary
+shipname_dictionary <- shipname_dictionary %>% 
+  mutate(ShipnameNorm = case_when(ShipnameNorm == "CLIPEPERTON" ~ "CLIPPERTON",
+                                  ShipnameNorm == "MARIAANTONIETA" ~ "MAANTONIETA",
+                                  T ~ ShipnameNorm))
+
 # Months Esp - Eng - num
 months <- tibble(Mes = c("Enero",
                          "Febrero",
