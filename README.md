@@ -5,11 +5,15 @@
 
 ```
 -- data
+   |__conapesca_bq.csv
    |__conapesca_bq.rds
+   |__mexican_purse_seiners_monthly_raster_by_vessel.rds
 -- docs
 -- predictable_fish.Rproj
 -- raw_data
    |__conapesca.rds
+   |__Embarcaciones_Pesqueras_Monitoreadas.csv
+   |__permisos_pesca_comercial.xlsx
 -- README.md
 -- scripts
    |__1_processing
