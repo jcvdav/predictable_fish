@@ -163,4 +163,4 @@ write.csv(x = conapesca_bq,
           file = here("data", "conapesca_bq.csv"),
           row.names = F)
 
-# END
+# END OF SCRIPT
