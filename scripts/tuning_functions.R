@@ -47,5 +47,21 @@ tuning_btree <- function(trees, tree_depth, learn_rate, validation_data){
               sd_rmse = sd(.estimate))
 }
 
+tuning_mars <- function(num_terms, prod_degree, validation_data){
+  
+  results <- map2_dfr(.x = validation_data$splits,
+                      .y = validation_data$id,
+                      ~fitting_mars(num_terms,
+                                    prod_degree,
+                                    split = .x,
+                                    id = .y))
+  
+  results %>%
+    group_by(id) %>%
+    rmse(truth, prediction) %>%
+    summarise(mean_rmse = mean(.estimate),
+              sd_rmse = sd(.estimate))
+}
+
 
 

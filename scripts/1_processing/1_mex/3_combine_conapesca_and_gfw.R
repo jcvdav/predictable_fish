@@ -11,8 +11,7 @@ library(tidyverse)
 mex_ps <- readRDS(here("data", "mexican_purse_seiners_monthly_raster_by_vessel.rds"))
 
 # Landings data from conapesca
-conapesca_bq <- readRDS(here("data", "conapesca_bq.rds")) %>% 
-  filter(category == "Atun")
+conapesca_bq <- readRDS(here("data", "conapesca_bq.rds"))
 
 # Combine the datasets
 data <- full_join(mex_ps, conapesca_bq, by = c("year", "month", "shipname")) %>% 
