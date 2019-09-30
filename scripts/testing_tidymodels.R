@@ -7,7 +7,8 @@ source(here("scripts", "tuning_functions.R"))
 source(here("scripts", "fitting_functions.R"))
 
 mex_data <- readRDS(file = here("data", "mexican_purse_seines.rds")) %>% 
-  select(-c(landings, ssvid, shipname, commodity, value, category, date))
+  select(-c(landings, ssvid, shipname, commodity, value, category, date)) %>% 
+  filter(year > 2014)
 
 
 # testing and training datasets
