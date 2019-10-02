@@ -14,8 +14,8 @@ library(tidyverse)
 mex_ps <- get_table(project = "ucsb-gfw",
                     dataset = "jc_predictable_fish",
                     table = "mexican_purse_seiners_monthly_raster_by_vessel") %>%
-  filter(between(lat_bin_center, -30, 35),
-         between(lon_bin_center, -160, 0)) %>% 
+  # filter(between(lat_min, -30, 35),
+         # between(lon_min, -160, 0)) %>% 
   mutate(lat_range = abs(lat_max - lat_min),
          lon_range = abs(lon_max - lon_min)) %>% 
   select(-c(lat_max, lon_max))
